@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default " en " }}">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{{ if eq .IsHome false }}
+	<title>{{ .Title }} | {{ .Site.Title }}</title>
+	{{ else }}
+	<title>{{ .Site.Params.Info.homeTitle }}</title>
+	{{ end }}
+	{{ if .Site.Params.Info.enableSocial }}
+	{{- partial "social/opengraph" . -}}
+	{{ end }}
+	<!-- <link rel="stylesheet" href="https://assets.radio4000.com/styles.css"> -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css">
+</head>
+<body>
+
+	<h1 class="Logo">
+		<a href="{{ .Site.BaseURL }}">
+			{{ .Site.Title }}
+		</a>
+		<a href="https://radio4000.com">
+			radio4000.com &rarr;
+		</a>
+	</h1>

@@ -1,0 +1,3 @@
+<!-- Had to inline this to trim whitespace rendering -->
+
+{{define "tag"}}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">#{{ . }}</a>{{end}}{{ range first 1 . }}{{template "tag" . }}{{ end }}{{ if gt (len .) 1 }}{{ range after 1 . }}, {{ template "tag" . }}{{ end }}{{ end }}

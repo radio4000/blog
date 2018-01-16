@@ -1,0 +1,6 @@
+# baseURL = "https://blog.radio4000.com/"
+baseURL = "/"
+relativeURLs = true
+languageCode = "en-us"
+title = "Radio4000 Blog"
+paginate = 999

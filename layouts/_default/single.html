@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+	<main>
+		<article>
+			<h1 class="Title">{{ .Title }}</h1>
+			<p class="Meta">
+				<time>{{ .Date.Format " 2. January 2006" }}</time>
+			</p>
+			<div>{{ .Content }}</div>
+			{{ if .Params.tags }}
+				<p class="Tags">
+					{{ partial "tags" .Params.tags }}
+				</p>
+			{{ end }}
+		</article>
+		<p><a href="{{ .Site.BaseURL }}">&larr; back to homepage</a></p>
+	</main>
+
+{{ partial "footer.html" . }}
