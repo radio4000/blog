@@ -15,26 +15,31 @@ html {
 }
 
 body {
-	margin: 1em;
-}
-
-.Meta {
-	font-size: 0.875em;
-	text-transform: uppercase;
-	color: hsl(0, 0%, 40%);
+	margin: 2vw 3vw;
 }
 
 article {
 	margin-bottom: 3rem;
 }
 
+.Meta {
+	font-size: 0.875em;
+	color: hsl(0, 0%, 50%);
+}
+
+.Title a {
+	color: initial;
+	text-decoration: none;
+}
+
 article .Title {
+	margin-top: 0;
 	margin-bottom : 0;
 }
 
 article .Meta {
-	margin-top: 0.2rem;
-	margin-bottom: 0rem;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .Logo {

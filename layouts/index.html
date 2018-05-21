@@ -2,19 +2,19 @@
 
 {{ range sort .Paginator.Pages }}
 <article>
+	<p class="Meta">
+		<time>{{ .Date.Format " 2. January 2006" }}</time>
+	</p>
 	<h2 class="Title">
 		<a href="{{ .Permalink }}">
 			{{ .Title }}
 		</a>
 		{{ if .Draft }} ::Draft{{ end }}
 	</h2>
-	<p class="Meta">
-		<time>{{ .Date.Format " 2. January 2006" }}</time>
-	</p>
 	<p>
 		{{ .Summary | plainify | safeHTML }}
 		{{ if .Truncated }}
-		<a href="{{ .Permalink }}">Read more…</a>
+		<a href="{{ .Permalink }}">…</a>
 		{{ end }}
 	</p>
 </article>
