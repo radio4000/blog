@@ -19,7 +19,7 @@ version
 We're happy to introduce some new features, and an effort to harmonize
 the overall experience across the software.
 
-![](http://78.media.tumblr.com/f112d9281d3b336939073e86c6f0fccf/tumblr_inline_ovvl27jgma1qcamag_1280.png)
+![](/images/tumblr_inline_ovvl27jgma1qcamag_1280.jpg)
 
 It is coming in with a new **radio channel homepage** and a new design
 now including the latest 10 tracks. A new subpage therefore appears

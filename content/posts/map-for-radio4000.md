@@ -15,7 +15,7 @@
     "publishdate": "2017-11-03T17:20:08.000Z"
 }
 
-![](http://78.media.tumblr.com/b4dffb5ffa0b9437ba1c619b3dab3658/tumblr_inline_oyundzTakN1qcamag_1280.png)
+![](/images/tumblr_inline_oyundzTakN1qcamag_1280.jpg)
 
 There is a new way to discover Radio4000 channels online, [a map of the
 world](https://radio4000.com/map).

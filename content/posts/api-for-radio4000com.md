@@ -33,7 +33,7 @@ development. In the current case we could summarize it as a set of tools
 and specifications defined (here by the Radio4000 team) to help
 developers apprehend and use data made available through the API.\
 
-![](http://78.media.tumblr.com/2404e6bddc95f34a496511baffa898f0/tumblr_inline_oxxajpIBGL1qcamag_1280.png)
+![](/images/tumblr_inline_oxxajpIBGL1qcamag_1280.jpg)
 
 Using this api as a weekend project, we've put together a light DJ
 setup, with which you can mix two Radio4000 together, making transitions

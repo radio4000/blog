@@ -16,6 +16,6 @@ You enjoy discovering and sharing music on Radio4000, but you would like the exp
 
 We just implemented new [Keyboard shortcuts](https://support.internet4000.com/radio4000/#keyboard-shortcuts) to improve your time on the site. find the full up-to-date list on in the support center.
 
-![](http://78.media.tumblr.com/84a6df53237675911856800c9a48776d/tumblr_inline_ozthgo9uhJ1qcamag_1280.png)
+![](/images/tumblr_inline_ozthgo9uhJ1qcamag_1280.jpg)
 
 *Fig 1:  keyboard shortcut \`g m\`, "go to map"*

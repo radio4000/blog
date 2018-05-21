@@ -21,7 +21,7 @@ On top of now being able to search any radio tracks, and find the one
 you want to play, you can from today **listen to a selection of tracks
 from a radio**.\
 
-![](http://78.media.tumblr.com/75fe4387d46c47840d1c9cee33d089a6/tumblr_inline_p2lqleaQYa1qcamag_1280.png)
+![](/images/tumblr_inline_p2lqleaQYa1qcamag_1280.jpg)
 
 *Fig 1. playing selection "\#after" from [Radio
 Tobha](https://radio4000.com/radio-tobha/tracks?search=%23after)*\
@@ -49,7 +49,7 @@ Every track you add to you radio can have a "title" and "description".
 These two fields are used to lookup for your search. You can add every
 information you think is usefull to a description.
 
-![](http://78.media.tumblr.com/c8c084136f34ace2ea73632b1bc4656c/tumblr_inline_p2ls56s1V11qcamag_1280.png)
+![](/images/tumblr_inline_p2ls56s1V11qcamag_1280.jpg)
 
 Fig 2. [Radio
 Girafe](https://radio4000.com/radio-girafe/tracks?search=1978) use of
