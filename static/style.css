@@ -7,7 +7,7 @@ img {
 */
 
 html {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 	line-height: 1.5;
 	max-width: 50em;
 	margin: 0 auto;
@@ -22,22 +22,24 @@ article {
 	margin-bottom: 3rem;
 }
 
-.Meta {
-	font-size: 0.875em;
-	color: hsl(0, 0%, 50%);
+h1 {
+	font-size: 2rem;
 }
 
-.Title a {
+h1 a,
+h2 a {
 	color: initial;
 	text-decoration: none;
 }
 
-article .Title {
+.Title {
 	margin-top: 0;
 	margin-bottom : 0;
 }
 
-article .Meta {
+.Meta {
+	font-size: 0.875em;
+	color: hsl(0, 0%, 50%);
 	margin-top: 0;
 	margin-bottom: 0;
 }
