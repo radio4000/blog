@@ -2,8 +2,13 @@
 {
 	"slug": "backup-your-radio4000-data",
 	"date": "Mon May 24 08:04:05 MST 2018",
+	"tags": [
+        "music",
+        "organization",
+		"feature"
+    ],
 	"title": "Backup your Radio4000 radio data",
-	"publishdate": "Mon May 24 08:05:00 MST 2018",
+	"publishdate": "Mon May 24 08:05:00 MST 2018"
 }
 ---
 
