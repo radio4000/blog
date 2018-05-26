@@ -49,7 +49,9 @@ languages such as Javascript and Python.
 
 If you would like to know more about what you can do with this file:
 
-- [javascript application example](https://jsbin.com/kiyudepuyo/edit?html,output)
+- [javascript application
+  example](https://jsbin.com/kiyudepuyo/edit?html,output)
+- [Radio4000 api, backup endpoint](https://github.com/internet4000/radio4000-api#endpoints)
 - [json on Wikipedia](https://en.wikipedia.org/wiki/JSON)
 - [json on the Mozilla Developer
   Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
