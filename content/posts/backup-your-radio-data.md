@@ -1,17 +1,12 @@
 ---
-{
-	"slug": "backup-your-radio4000-data",
-	"date": "Mon May 24 08:04:05 MST 2018",
-	"tags": [
-        "music",
-        "organization",
-		"feature"
-    ],
-	"title": "Backup your Radio4000 radio data",
-	"publishdate": "Mon May 24 08:05:00 MST 2018"
-}
+date: Mon May 24 08:04:05 MST 2018
+slug: backup-your-radio4000-data
+tags:
+- music
+- organization
+- feature
+title: Backup your Radio4000 radio data
 ---
-
 
 While using Radio4000 each user are building a library of sounds. All
 the tunes added in your radio, its name, description, compose the data

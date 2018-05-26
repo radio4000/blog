@@ -1,15 +1,12 @@
-{
-    "slug": "radio4000-version-5",
-    "date": "2017-09-06T20:36:24.000Z",
-    "tags": [
-        "release",
-        "v5.0.0",
-        "radio4000",
-        "new"
-    ],
-    "title": "Radio4000 version 5",
-    "publishdate": "2017-09-06T20:36:24.000Z"
-}
+---
+date: "2017-09-06T20:36:24.000Z"
+tags:
+- release
+- v5.0.0
+- radio4000
+- new
+title: Radio4000 version 5
+---
 
 Good evening!
 

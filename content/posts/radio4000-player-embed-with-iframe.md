@@ -1,19 +1,17 @@
-{
-    "slug": "radio4000-player-embed-with-iframe",
-    "date": "2017-10-22T23:31:29.000Z",
-    "tags": [
-        "iframe",
-        "music",
-        "share",
-        "radio",
-        "playlists",
-        "feature",
-        "easy",
-        "freedom"
-    ],
-    "title": "Embed a Radio4000 with an Iframe, on any website",
-    "publishdate": "2017-10-22T23:31:29.000Z"
-}
+---
+date: "2017-10-22T23:31:29.000Z"
+slug: radio4000-player-embed-with-iframe
+tags:
+- iframe
+- music
+- share
+- radio
+- playlists
+- feature
+- easy
+- freedom
+title: Embed a Radio4000 with an Iframe, on any website
+---
 
 From today you can embed your Radio4000 onto any other webpage.
 Meet **[RADIO ARKOV](https://radio4000.com/arkov).**

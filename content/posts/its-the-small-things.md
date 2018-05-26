@@ -1,13 +1,11 @@
-{
-    "slug": "its-the-small-things",
-    "date": "2016-09-03T14:48:57.000Z",
-    "tags": [
-        "updates",
-        "4.2.0"
-    ],
-    "title": "It’s the small things…",
-    "publishdate": "2016-09-03T14:48:57.000Z"
-}
+---
+date: "2016-09-03T14:48:57.000Z"
+slug: its-the-small-things
+tags:
+- updates
+- 4.2.0
+title: It’s the small things…
+---
 
 A new update is out on [Radio4000](https://radio4000.com/bookmarklet)
 --- it's now faster to add a track to your radio. Whereas before you'd

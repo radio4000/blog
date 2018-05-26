@@ -1,17 +1,15 @@
-{
-    "slug": "search-tracks-listen-to-results",
-    "date": "2018-01-15T15:20:11.000Z",
-    "tags": [
-        "feature",
-        "music",
-        "radio",
-        "search",
-        "radio4000",
-        "tracks"
-    ],
-    "title": "Search tracks, listen to results",
-    "publishdate": "2018-01-15T15:20:11.000Z"
-}
+---
+date: "2018-01-15T15:20:11.000Z"
+slug: search-tracks-listen-to-results
+tags:
+- feature
+- music
+- radio
+- search
+- radio4000
+- tracks
+title: Search tracks, listen to results
+---
 
 Hello!
 

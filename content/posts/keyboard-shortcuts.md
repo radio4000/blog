@@ -1,16 +1,14 @@
-{
-    "slug": "keyboard-shortcuts",
-    "date": "2017-11-22T14:46:50.000Z",
-    "tags": [
-        "keyboard shortcuts",
-        "productivity",
-        "music",
-        "radio4000",
-        "youtube"
-    ],
-    "title": "Keyboard shortcuts",
-    "publishdate": "2017-11-22T14:46:50.000Z"
-}
+---
+date: "2017-11-22T14:46:50.000Z"
+slug: keyboard-shortcuts
+tags:
+- keyboard shortcuts
+- productivity
+- music
+- radio4000
+- youtube
+title: Keyboard shortcuts
+---
 
 You enjoy discovering and sharing music on Radio4000, but you would like the experience to be done without the mouse, keyboard only?
 

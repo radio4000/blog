@@ -1,12 +1,10 @@
-{
-    "slug": "site-update-may-2nd-2015",
-    "date": "2015-05-03T07:00:58.000Z",
-    "tags": [
-        "siteUpdate"
-    ],
-    "title": "Site Update, May 2nd 2015",
-    "publishdate": "2015-05-03T07:00:58.000Z"
-}
+---
+date: "2015-05-03T07:00:58.000Z"
+slug: site-update-may-2nd-2015
+tags:
+- siteUpdate
+title: Site Update, May 2nd 2015
+---
 
 What is new?
 

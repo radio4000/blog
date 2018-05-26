@@ -1,10 +1,7 @@
-{
-    "slug": "older-logs",
-    "date": "2015-04-01T10:45:28.000Z",
-    "tags": [],
-    "title": "Older logs",
-    "publishdate": "2015-04-01T10:45:28.000Z"
-}
+---
+date: "2015-04-01T10:45:28.000Z"
+title: Older logs
+---
 
 An internal timeline of things we pushed on
 [Radio4000](https://radio4000.com). Posted here so it doesn't get lost

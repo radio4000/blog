@@ -1,17 +1,15 @@
-{
-    "slug": "api-for-radio4000com",
-    "date": "2017-10-16T15:47:53.000Z",
-    "tags": [
-        "radio4000",
-        "api",
-        "free",
-        "software",
-        "music",
-        "cultural diversity"
-    ],
-    "title": "API for Radio4000.com",
-    "publishdate": "2017-10-16T15:47:53.000Z"
-}
+---
+date: "2017-10-16T15:47:53.000Z"
+slug: api-for-radio4000com
+tags:
+- radio4000
+- api
+- free
+- software
+- music
+- cultural diversity
+title: API for Radio4000.com
+---
 
 Yes, Radio4000 now officially has an **API**!
 

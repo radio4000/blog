@@ -1,14 +1,11 @@
-{
-    "slug": "how-to-discover-new-music",
-    "date": "Mon May 24 12:19:10 MST 2018",
-    "tags": [
-        "music",
-        "organization",
-        "article"
-    ],
-    "title": "How to discover new music?",
-    "publishdate": "Mon May 24 11:19:10 MST 2018"
-}
+---
+date: Mon May 24 12:19:10 MST 2018
+tags:
+- music
+- organization
+- article
+title: How to discover new music?
+---
 
 An extensive guide on how to discover new music. TBC.
 

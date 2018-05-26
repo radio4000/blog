@@ -1,19 +1,17 @@
-{
-    "slug": "map-for-radio4000",
-    "date": "2017-11-03T17:20:08.000Z",
-    "tags": [
-        "map",
-        "world map",
-        "radio4000",
-        "internet radio",
-        "music",
-        "diversity",
-        "personalities",
-        "cultural diversity"
-    ],
-    "title": "Map for Radio4000",
-    "publishdate": "2017-11-03T17:20:08.000Z"
-}
+---
+date: "2017-11-03T17:20:08.000Z"
+slug: map-for-radio4000
+tags:
+- map
+- world map
+- radio4000
+- internet radio
+- music
+- diversity
+- personalities
+- cultural diversity
+title: Map for Radio4000
+---
 
 ![](/images/tumblr_inline_oyundzTakN1qcamag_1280.jpg)
 

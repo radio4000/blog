@@ -1,16 +1,14 @@
-{
-    "slug": "protip-quick-play-radio-and-play-random",
-    "date": "2017-10-17T09:58:25.000Z",
-    "tags": [
-        "tip",
-        "protip",
-        "radio4000",
-        "music",
-        "radio"
-    ],
-    "title": "Protip: /play & /play/random",
-    "publishdate": "2017-10-17T09:58:25.000Z"
-}
+---
+date: "2017-10-17T09:58:25.000Z"
+slug: protip-quick-play-radio-and-play-random
+tags:
+- tip
+- protip
+- radio4000
+- music
+- radio
+title: 'Protip: /play & /play/random'
+---
 
 Hello there,
 
