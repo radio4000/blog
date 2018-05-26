@@ -49,6 +49,7 @@ languages such as Javascript and Python.
 
 If you would like to know more about what you can do with this file:
 
+- [javascript application example](https://jsbin.com/kiyudepuyo/edit?html,output)
 - [json on Wikipedia](https://en.wikipedia.org/wiki/JSON)
 - [json on the Mozilla Developer
   Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
