@@ -192,9 +192,8 @@ those person are also willing to create for you a unique moment in
 time and space you won't forget.
 
 # Conclusion
-This list should and will be a forever work in progress. It is solely
-an introduction to how to dig new music, and aim to suggest ways some
-might not yet know.
+This is forever work in progress. It is solely an introduction to what
+is a possible way to dig new music, suggesting ways some might not yet know.
 
 In any case, share your discoveries online and offline. Listen to more music, at
 your workplace or at home, on headphones or speakers, go enjoy acts at
