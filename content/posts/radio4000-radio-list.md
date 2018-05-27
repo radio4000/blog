@@ -1,7 +1,10 @@
 ---
-date: "2018-05-27T12:47:53.000Z"
+date: "2018-05-26 12:40:53"
 slug: radio-list
-title: "A list of online and offline radio channels from all over the planet"
+tags:
+- radios
+- radio list
+title: A list of online and offline radio channels
 ---
 
  Most can be listend to online, on the broadcaster's website or in some
