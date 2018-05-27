@@ -139,6 +139,22 @@ labels, and be notified of their new releases. Bandcamp is one of the
 few platform with Discogs on which the label is visible. See the
 labels section for why this is a happy fact.
 
+### Mixcloud
+
+A website filled with user submitted mixes. One of the nicest way to
+discover music. On [Mixcloud](https://www.mixcloud.com/) you can
+follow djs, labels, music producers, music podcasters playing their
+favorite records.
+
+You should definitely look for your favorite artist names on their
+site, see who is playing them. That will definitely lead to
+discoveries.
+
+One of the great aspect of Mixcloud is that it also shows in most
+cases which tune is on air. So when you like something, you can find
+it on Bandcamp, Youtube, maybe add it to your Radio4000 channel so you
+can listen to it later again. 
+
 ### Blogs and magazines
 
 Blogs have been one of the most fantastic creation of Internet. Each
@@ -165,11 +181,18 @@ started.
 ### Radio4000
 
 A good tool to organize and learn from your music
-discoveries. [Radio4000](https://radio4000.com) is also
-an amazing spot to discover what other people on the planet are
-listening to.Follow other's musical explorations and get inspired by
-other humans audio journeys. Look at the names and the genres, explore
-more of the artists' creations on Spotify, Youtube, Discogs.
+discoveries. [Radio4000](https://radio4000.com) is also an amazing
+spot to discover what other people on the planet are listening
+to. Follow someone else's musical explorations and get inspired by
+their audio journeys.
+
+If you find a track you enjoy, look out for its name, search for it on
+Discogs, get to know who was involved in its creation. So many links.
+
+On Radio4000 you will listen to tunes you like in the context of
+someone who selected all these tracks because they liked them. Any
+track can be saved to your radio, every radio can be listened again
+and followed for getting its latest additions.
 
 ## Outside of home 
 
