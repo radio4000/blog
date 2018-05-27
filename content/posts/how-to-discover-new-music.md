@@ -23,21 +23,42 @@ so it is great to combine supports when publishing (as in making public).
 
 ## A method to discover new music organically, and learn your tastes
 
-### same artist
+### Artist
+
 You liked something that artist did, she/he/they possibly have other projects you
 might enjoy.
 Also note that the bassist, trumpetist, backing vocal of an act can
 have a solo project, or collaborate with other people. Don't
 just look at the big names, dig into those who more in the shadows are also part of the creation of the grooves we like.
 
-### same label
-A label is mainly one or a group of persons, puting energy and
-time in finding music and artists they like, and working together with
-them so their music is being compiled and distributed to reach other
-people who might enjoy it. Labels usually release multiple new music as their releases over their years of activity.
-Find a track you like, find the album, lp, ep
+### Label
 
-### new styles and genres
+Labels are a key on the production of new music, making it happen,
+promoting records they create so they are being heard, accessed by
+us, the craving audience.
+
+A label is mainly composed of one or a group of persons, puting energy
+and time in finding music, artists they like. Then, working together so
+an artist music's is compiled and distributed to reach an audience, other people
+who might enjoy it. Labels usually publish multiple new music over
+their years of activity. You can follow their news, and get music
+fresh out from where it's baked.
+
+Many artists are also self pusblishing their records, often you will
+be able to follow their updates on the different channels once publish
+their work, Youtube, Bandcamp, Soundcloud.
+
+Note that, as for an artist, a label which may have ceased to exist, as in publish new
+records, does not make it any less worthy of interest.
+
+If you haven't already, look out for the name of the labels on your
+favorite records. Maybe try to find the smallest labels, the ones for
+which putting out a record requires as much energy and involvment as
+producing its notes. Look it up online, explore its release on Discogs
+or at a record in town. This is most definitely where you'll find a
+great deal of new favorites.
+
+### Styles and genres
 You've been listening to rock, house, classic or raggae for a while now. There
 is definitely something aside that you will get to love. It maybe even
 doesn't have a name yet. Sure the beat is not quite the same, but give
@@ -53,7 +74,7 @@ good tunes, that you can learn to understand.
 
 # Some sources to stumble upon new discoveies
 
-All the following sources can be combined. Mixing them will lead to great results
+All the following sources can be combined. Mixing them will lead to great results.
 
 ## From the comfort of your home
 ### Discogs
@@ -101,15 +122,45 @@ Schaeffer - Études de bruits
 Of course, if you enjoy this, or out of curiosity you'd like to know
 more, look for these names on Discogs, and follow the links!
 
-### Magazine and blogs
-There are many magazines about music, talking about releases of new or
-old music, generalist or specialized. Jazz, raggae, techno, look out
+### Bandcamp
+
+Because [Bandcamp](https://bandcamp.com/) is working on offering a
+fair cut on sales, this platform is being increasingly used by artists,
+labels and other publishing houses to release their work. You can
+listen to music that has been uploaded in good quality.
+
+It is always better to know for what you are looking for when going
+there as the interface does not lead to exploration accross their
+database. For a Wikipedia feeling, where links lead to unexpected
+gems, see the section on Discogs.
+
+Great thing being that it is possible to follow favorite artists and
+labels, and be notified of their new releases. Bandcamp is one of the
+few platform with Discogs on which the label is visible. See the
+labels section for why this is a happy fact.
+
+### Blogs and magazines
+
+Blogs have been one of the most fantastic creation of Internet. Each
+of them islands of knowledge spread accross blog hosting platforms,
+Blogger, Wordpress instances.
+
+Many music diggers and amateurs
+present and share their discoveries online. They offer a wide range,
+sometimes hyper-specialized, of genre explorations to whoever wants to
+spend the time to listen.
+
+There are also many magazines about music, talking about releases of new or
+old tunes, generalist or specialized. Jazz, raggae, techno, look out
 for yours. Find some online, or at the kiosk.
+
 
 ### Radios
 Maybe the good old FM radio does not satisfy you any longer? No
 worries, there are plenty of web based radios with dedicated people
-willing to share the good tunes. [This list](https://blog.radio4000.com/radio-list) could help getting started.
+willing to share the good tunes. [This
+list](https://blog.radio4000.com/radio-list) could help getting
+started.
 
 ### Radio4000
 
@@ -140,15 +191,6 @@ some people wanted to share good music and good acts they discovered. There is h
 those person are also willing to create for you a unique moment in
 time and space you won't forget.
 
-<<<<<<< HEAD:content/posts/how-to-discover-new-music.md
-## Conclusion
-This list should and will be a forever work in progress.
-Share your discoveries online and offline.
-Listen to more music, at your workplace or at home, on headphones or
-speakers, go enjoy acts at venues.
-Start creating your music, alone or together, with your name or
-anonymously, make it available to listen.
-=======
 # Conclusion
 This list should and will be a forever work in progress. It is solely
 an introduction to how to dig new music, and aim to suggest ways some
@@ -159,5 +201,4 @@ your workplace or at home, on headphones or speakers, go enjoy acts at
 venues.  Start creating your music, alone or together, with your name
 or anonymously, make it available to listen.
 
->>>>>>> improve dig music with links:content/posts/radio4000-how-to-discover-new-music.md
 Peace
