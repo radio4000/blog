@@ -51,25 +51,37 @@ organize it in shelves or in folders, create playlists offline or
 online, but store what you find and start building a well organized collection of
 good tunes, that you can learn to understand.
 
-## Some sources to stumple upon new discoveies
-All those sources should be combined.
+# Some sources to stumble upon new discoveies
+
+All the following sources can be combined. Mixing them will lead to great results
 
 ## From the comfort of your home
 ### Discogs
-A community generated encyclopedia. Everything that can be known about
-a record should be found there. If you know something that cannot
-there be found, reference it! For the sake of knowledge sharing!
-Click the labels, different artists who made that record possible,
-listen to all tracks on an album, look at other users created list in
-which this record is. There are many ways you can get serendipity
-started.
+
+[Discogs](https://www.discogs.com/) is some sort of community
+generated encyclopedia. Everything that can be known about a record
+should be found there. If you know something that cannot there be
+found, reference it! For the sake of knowledge sharing!  Click the
+labels, different artists who made that record possible, listen to all
+tracks on an album, look at other users created list in which this
+record is. There are many ways you can get serendipity started.
+
+Look as the [Discog's page for the band
+Azymuth](https://www.discogs.com/artist/78-Azymuth). You'll find a
+list of all their albums, the label they were realeased on, when, who
+played the piano etc.
+						 
 
 ### Wikipedia
-The good old, giving you an overview of an artist, a genre, style,
+
+The good old Wikipedia, giving you an overview of an artist, a genre, style,
 era. Click on those links, get lost, learn and explore, copy paste
 name in Youtube, Spotify, listen.
 
+Try out the [Wikipedia page on House music](https://en.wikipedia.org/wiki/House_music).
+
 ### Youtube
+
 Definitely one of the place where it is the easiest to listen to
 music. Start listening to something you know already; then listen to
 the side recommandation, other music from the same artists, other
@@ -78,6 +90,19 @@ Youtube has developed a crazy algorithm which as been fueled by a
 constant and massive ammount of data we give it while browsing the
 site. The result is auto-generating lists of somehow related music.
 
+<<<<<<< HEAD:content/posts/how-to-discover-new-music.md
+=======
+Have you listened to this form of music name [Musique
+concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te)?. Here
+are two example Youtube videos to start exploring, [Pierre Schaeffer & Pierre
+Henry: Orphée 53 (1953)](https://www.youtube.com/watch?v=XJq3jItducg),
+and [Pierre Schaeffer - Études de bruits
+(1948)](https://www.youtube.com/watch?v=CTf0yE15zzI).
+
+Of course, if you enjoy this, or out of curiosity you'd like to know
+more, look for these names on Discogs, and follow the links!
+
+>>>>>>> improve dig music with links:content/posts/radio4000-how-to-discover-new-music.md
 ### Magazine and blogs
 There are many magazines about music, talking about releases of new or
 old music, generalist or specialized. Jazz, raggae, techno, look out
@@ -86,25 +111,39 @@ for yours. Find some online, or at the kiosk.
 ### Radios
 Maybe the good old FM radio does not satisfy you any longer? No
 worries, there are plenty of web based radios with dedicated people
-willing to share the good tunes.
+willing to share the good tunes. We're also compiling a list of
+online/fm radios we enjoy, more on that soon.
 
 ### Radio4000
-A good tool to save and learn from your music discoveries, it is also
-a nice spot to follow other musical explorations and get inspired by
-other humans audio journeys.
+
+A good tool to organize and learn from your music
+discoveries. [Radio4000](https://radio4000.com) is also
+an amazing spot to discover what other people on the planet are
+listening to.Follow other's musical explorations and get inspired by
+other humans audio journeys. Look at the names and the genres, explore
+more of the artists' creations on Spotify, Youtube, Discogs.
 
 ## Outside of home 
-### Go to record shops
+
+### Record shops
 Those guys are spending their days listening to music, expert
 diggers, they've dedicated their life to finding and sharing the
-grooves. Find some you record delears you like the taste of and get their records!
+grooves. Find some you record delears you like the taste of and get
+their records!
 
-### Go to parties, concerts and festivals
+If you're looking for your favorites music on vinyl records, you can
+try [LP/EP Finder](https://lpepfinder.com/), a little tool we've put
+together to find music at local vinyl shops. Give it a name of a
+record you like, see in which record shop it is sold, and explore the
+rest of this shop's selection.
+
+### Parties, concerts and festivals
 Same here. A party, concerts or festivals mostly start to exist because
 some people wanted to share good music and good acts they discovered. There is high chance
 those person are also willing to create for you a unique moment in
 time and space you won't forget.
 
+<<<<<<< HEAD:content/posts/how-to-discover-new-music.md
 ## Conclusion
 This list should and will be a forever work in progress.
 Share your discoveries online and offline.
@@ -112,4 +151,16 @@ Listen to more music, at your workplace or at home, on headphones or
 speakers, go enjoy acts at venues.
 Start creating your music, alone or together, with your name or
 anonymously, make it available to listen.
+=======
+# Conclusion
+This list should and will be a forever work in progress. It is solely
+an introduction to how to dig new music, and aim to suggest ways some
+might not yet know.
+
+In any case, share your discoveries online and offline. Listen to more music, at
+your workplace or at home, on headphones or speakers, go enjoy acts at
+venues.  Start creating your music, alone or together, with your name
+or anonymously, make it available to listen.
+
+>>>>>>> improve dig music with links:content/posts/radio4000-how-to-discover-new-music.md
 Peace
