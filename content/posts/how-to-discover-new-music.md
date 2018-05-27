@@ -90,19 +90,17 @@ Youtube has developed a crazy algorithm which as been fueled by a
 constant and massive ammount of data we give it while browsing the
 site. The result is auto-generating lists of somehow related music.
 
-<<<<<<< HEAD:content/posts/how-to-discover-new-music.md
-=======
-Have you listened to this form of music name [Musique
+Have you tried [Musique
 concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te)?. Here
-are two example Youtube videos to start exploring, [Pierre Schaeffer & Pierre
-Henry: Orphée 53 (1953)](https://www.youtube.com/watch?v=XJq3jItducg),
-and [Pierre Schaeffer - Études de bruits
+are two example Youtube videos to start exploring, [Pierre Schaeffer &
+Pierre Henry: Orphée 53
+(1953)](https://www.youtube.com/watch?v=XJq3jItducg), and [Pierre
+Schaeffer - Études de bruits
 (1948)](https://www.youtube.com/watch?v=CTf0yE15zzI).
 
 Of course, if you enjoy this, or out of curiosity you'd like to know
 more, look for these names on Discogs, and follow the links!
 
->>>>>>> improve dig music with links:content/posts/radio4000-how-to-discover-new-music.md
 ### Magazine and blogs
 There are many magazines about music, talking about releases of new or
 old music, generalist or specialized. Jazz, raggae, techno, look out
@@ -111,8 +109,7 @@ for yours. Find some online, or at the kiosk.
 ### Radios
 Maybe the good old FM radio does not satisfy you any longer? No
 worries, there are plenty of web based radios with dedicated people
-willing to share the good tunes. We're also compiling a list of
-online/fm radios we enjoy, more on that soon.
+willing to share the good tunes. [This list](https://blog.radio4000.com/radio-list) could help getting started.
 
 ### Radio4000
 
