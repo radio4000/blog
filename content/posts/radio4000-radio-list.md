@@ -7,11 +7,11 @@ tags:
 title: A list of online and offline radio channels
 ---
 
- Most can be listend to online, on the broadcaster's website or in some
+Most can be listened to online, on the broadcaster's website or in some
 application. For the rest, you might have to connect to the AM/FM
 waves, turn on the radio in your car, also possibly change country.
 
-# Databases and applications
+## Databases and applications
 
 - [Transnational Radio Knowledge
   Platform](http://www.transnationalradio.org/database#Search) - a
@@ -25,7 +25,7 @@ waves, turn on the radio in your car, also possibly change country.
   track rarities.
 - [RadioISS](http://www.radioiss.com/) - Listening to Earth from Space.
 
-# Radios
+## Radios
 
 - [Reverberation Radio](http://reverberationradio.com/) [online] - a
   selection of music, close to a mix, no hassle.
