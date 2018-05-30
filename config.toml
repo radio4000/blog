@@ -4,3 +4,7 @@ relativeURLs = true
 languageCode = "en-us"
 title = "Radio4000 Blog"
 paginate = 999
+[outputs]
+  page = ["HTML", "json"]
+  section = ["HTML", "json", "RSS"]
+  home = ["HTML", "json", "RSS"]
