@@ -1,5 +1,5 @@
 ---
-date: Mon Jun 11 13:20:10 MST 2018
+date: 2018-06-11
 slug: use-radio4000-on-mobile-android-firefox-and-lock-the-screen
 tags:
 - radio4000
