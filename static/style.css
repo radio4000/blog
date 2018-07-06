@@ -63,3 +63,20 @@ h2 a {
 	margin-left: auto;
 	font-weight: normal;
 }
+
+article {
+	overflow: auto;
+}
+
+.Thumbnail {
+	float: right;
+	max-width: 40%;
+	margin-right: 0;
+	margin-bottom: 1em;
+	border: 1px solid rgba(0,0,0,0.4);
+	box-shadow: 3px 2px 3px rgba(0,0,0,0.3);
+}
+
+.Thumbnail img {
+	vertical-align: middle;
+}

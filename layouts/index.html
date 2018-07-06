@@ -11,10 +11,19 @@
 		</a>
 		{{ if .Draft }} ::Draft{{ end }}
 	</h2>
+
+	{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content }}
+	{{ $image := (index $images 0) }}
+	{{ with $image }}
+	<figure class="Thumbnail">
+		{{ $image | safeHTML }} 
+	</figure>
+	{{ end }}
+
 	<p>
-		{{ .Summary | plainify | safeHTML }}
+		{{ .Summary }}
 		{{ if .Truncated }}
-		<a href="{{ .Permalink }}">…</a>
+		<a href="{{ .RelPermalink }}">Read more…</a>
 		{{ end }}
 	</p>
 </article>

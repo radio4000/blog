@@ -1,19 +1,19 @@
 {{ partial "header.html" . }}
 
 <main>
-    <article>
-	<p class="Meta">
-	    <time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
-	</p>
-	<h1 class="Title">{{ .Title }}</h1>
-	<section>{{ .Content }}</section>
-	{{ if .Params.tags }}
-	<footer class="Tags">
-	    {{ partial "tags" .Params.tags }}
-	</footer>
-	{{ end }}
-    </article>
-    <p><a href="{{ .Site.BaseURL }}">&larr; see all posts</a></p>
+	<article>
+		<p class="Meta">
+			<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
+		</p>
+		<h1 class="Title">{{ .Title }}</h1>
+		<section>{{ .Content }}</section>
+		{{ if .Params.tags }}
+		<footer class="Tags">
+			{{ partial "tags" .Params.tags }}
+		</footer>
+		{{ end }}
+	</article>
+	<p><a href="{{ .Site.BaseURL }}">&larr; see all posts</a></p>
 </main>
 
 {{ partial "footer.html" . }}
