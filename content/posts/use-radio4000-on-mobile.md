@@ -18,7 +18,7 @@ device's screen.
 
 This is now solved!
 
-# How to play Radio4000 with the mobile phone screen locked
+## How to play Radio4000 with the mobile phone screen locked
 
 The solution is pretty simple, but will work only for **Android and on
 Firefox**. If you're not using Mozilla's Firefox browser, you should
@@ -39,12 +39,11 @@ Here are the steps:
    and [youtube.com](https://youtube.com), and at the same time use
    your mobile device like you usually do, switching applications,
    windows or tabs; the video will continue playing until you stop it.
-   
-   
+ 
 If you encounter any issue with this solution, [get in touch with the
 Radio4000 team](https://radio4000.com/feedback) so we can help!
 
-# Known limitations
+## Known limitations
 
 This solution is really helpful as it solves a long time issue from
 using R4 on mobile. There are still some caveats that we will continue
@@ -58,7 +57,7 @@ to try and solve.
 - this addon is not available for iOS, so iPhones and iPods won't be
   able to use it.
 
-# Some context
+## Some context
 
 This the beginning of the project, Radio4000 has been thought, design
 and build to work well on every device, operating system and
