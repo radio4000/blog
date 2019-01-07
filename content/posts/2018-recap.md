@@ -5,6 +5,8 @@ date: 2019-01-07
 
 What's happened to Radio4000 in the year 2018? Let's see.
 
+![the R4 office cat relaxing while we write this blog post, just after new years](/images/r4-office.jpg)
+
 You can search the tracks in a radio and listen to just that selection.  
 More on https://blog.radio4000.com/posts/search-tracks-listen-to-results
 
@@ -38,3 +40,5 @@ And made a few fun experiments:
 - https://github.com/internet4000/explorer-discogs (A work in progress explorer for Discogs)
 
 And of course hundreds of small tweaks and stuff all around. Join us on http://chat.radio4000.com.
+
+![](/images/r4-gif-low.gif)
