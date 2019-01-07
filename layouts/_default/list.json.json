@@ -1,0 +1,18 @@
+{{ define "response" }}
+
+[
+    {{ range $index, $e := .Paginator.Pages }}
+        {{ if $index }}, {{ end }}
+        {
+            "id" : "{{ .Permalink }}",
+            "title": "{{ .Title }}",
+            "date": "{{ .Date }}",
+            "type": "{{ .Type }}",
+            "permalink" : "{{ .Permalink }}",
+            "content": {{ .Plain | jsonify }},
+            "content_html": {{ .Content | jsonify }}
+        }
+    {{ end }}
+]
+
+{{ end }}
