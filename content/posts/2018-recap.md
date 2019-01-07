@@ -35,6 +35,6 @@ And made a few fun experiments:
 
 - https://github.com/internet4000/radio4000-mix (DJ mixer for Radio4000 channels)
 - https://github.com/internet4000/trivia-radio4000 (A prototype quiz game)
-- https://github.com/internet4000/explorer-radio4000 (A prototype quiz game)
+- https://github.com/internet4000/explorer-discogs (A work in progress explorer for Discogs)
 
-And of course hundreds of small tweaks and stuff all around. Join us on http://chat.radio4000.com!
+And of course hundreds of small tweaks and stuff all around. Join us on http://chat.radio4000.com.
