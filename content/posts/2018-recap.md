@@ -1,6 +1,6 @@
 ---
 title: "2018 recap"
-date: 2019-01-16
+date: 2019-01-07
 ---
 
 What's happened to Radio4000 in the year 2018? Let's see.
