@@ -1,7 +1,7 @@
 ---
 date: "2017-08-24T21:47:32.000Z"
 publishdate: "2017-08-24T21:47:32.000Z"
-slug: radio4000-has-now-a-new-player-it-has-been
+slug: radio4000-has-a-new-player
 tags: []
 title: Radio4000 has a new player
 ---
