@@ -16,6 +16,7 @@ convenience for user who might not wish to create for themeselves an
 account using an email/password pair.
 
 This "feature" is being rolled out for several reseaons:
+
 - bugs and annoyance in managing API keys for OAUTH applications (the
   Facebook and Google app and keys used to authenticate into
   radio400), and Firebase projects keys (issue with functions deployment).
@@ -23,6 +24,7 @@ This "feature" is being rolled out for several reseaons:
   (hopefully one day decentralized) infrastructure
   
 Instead, users will be able to:
+
 - create a new user and radio with email/password
 - update their current login method to email/password
 
