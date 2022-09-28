@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4.2.0 on Radio4000 Blog</title>
+    <link>/tags/4.2.0/</link>
+    <description>Recent content in 4.2.0 on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2016 14:48:57 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/4.2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It’s the small things…</title>
+      <link>/posts/its-the-small-things/</link>
+      <pubDate>Sat, 03 Sep 2016 14:48:57 +0000</pubDate>
+      
+      <guid>/posts/its-the-small-things/</guid>
+      <description>A new update is out on Radio4000 &amp;mdash; it&amp;rsquo;s now faster to add a track to your radio. Whereas before you&amp;rsquo;d have to go to your radio and first then tap add track, now you can add directly from anywhere on Radio4000.
+If you&amp;rsquo;re not already using the bookmarklet, you should try it out. After you&amp;rsquo;ve saved the bookmarklet it&amp;rsquo;s only two-taps to add a track while you&amp;rsquo;re browsing YouTube.</description>
+    </item>
+    
+  </channel>
+</rss>

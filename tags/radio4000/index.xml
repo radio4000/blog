@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio4000 on Radio4000 Blog</title>
+    <link>/tags/radio4000/</link>
+    <description>Recent content in Radio4000 on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/radio4000/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use Radio4000.com on mobile devices</title>
+      <link>/posts/use-radio4000-on-mobile-android-firefox-and-lock-the-screen/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/use-radio4000-on-mobile-android-firefox-and-lock-the-screen/</guid>
+      <description>Since the beginning of the project Radio4000 has been thought, designed and coded to work well on every devices, operating systems and browsers.
+One long time issue was using Radio4000 on mobile devices, because until now it was not possible to play a Radio4000 radio and lock the device&amp;rsquo;s screen.
+This is now solved!
+How to play Radio4000 with the mobile phone screen locked The solution is pretty simple, but will work only for Android and on Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Search tracks, listen to results</title>
+      <link>/posts/search-tracks-listen-to-results/</link>
+      <pubDate>Mon, 15 Jan 2018 15:20:11 +0000</pubDate>
+      
+      <guid>/posts/search-tracks-listen-to-results/</guid>
+      <description>Hello!
+Today a new feature appears on the site, tracks search.
+On top of now being able to search any radio tracks, and find the one you want to play, you can from today listen to a selection of tracks from a radio.
+Fig 1. playing selection &amp;ldquo;#after&amp;rdquo; from Radio Tobha
+That&amp;rsquo;s right, you can try it now, go to any radio (of course, yours too!), and explore the list of tracks.</description>
+    </item>
+    
+    <item>
+      <title>Map for Radio4000</title>
+      <link>/posts/map-for-radio4000/</link>
+      <pubDate>Fri, 03 Nov 2017 17:20:08 +0000</pubDate>
+      
+      <guid>/posts/map-for-radio4000/</guid>
+      <description>There is a new way to discover Radio4000 channels online, a map of the world.
+As of today everyone can position their Radio4000 channel to one location in the world. So can you!
+There are no restriction, nor any obligation. As always freedom first. You only decide if and where you would like your channel to appear on the map; where your body resides or your heart belongs, it is and will remain your choice.</description>
+    </item>
+    
+    <item>
+      <title>Protip: /play &amp; /play/random</title>
+      <link>/posts/protip-quick-play-radio-and-play-random/</link>
+      <pubDate>Tue, 17 Oct 2017 09:58:25 +0000</pubDate>
+      
+      <guid>/posts/protip-quick-play-radio-and-play-random/</guid>
+      <description>Hello there,
+just wanted to share with you two good tips to start listening to a radio as fast as possible.
+Let&amp;rsquo;s take a radio, could be yours, could be anyone else&amp;rsquo;s, let&amp;rsquo;s say balls, radio4000.com/balls, hi balls!
+When you want to play this radio on radio4000.com, you will probably type the address of radio4000 in your web browser, then visit the radio page before finally hitting the play button or a track on the chosen radio.</description>
+    </item>
+    
+    <item>
+      <title>API for Radio4000.com</title>
+      <link>/posts/api-for-radio4000com/</link>
+      <pubDate>Mon, 16 Oct 2017 15:47:53 +0000</pubDate>
+      
+      <guid>/posts/api-for-radio4000com/</guid>
+      <description>Yes, Radio4000 now officially has an API!
+api: https://api.radio4000.com
+documentation &amp;amp; code: https://github.com/internet4000/radio4000-api
+This means you can now use the public data from Radio4000.com (such as the radio channels and their tracks) to create any softwares, hardwares, websites or applications.
+What is an API?
+An API (application programming interface) can take many aspects and is a term generally used in software development. In the current case we could summarize it as a set of tools and specifications defined (here by the Radio4000 team) to help developers apprehend and use data made available through the API.</description>
+    </item>
+    
+    <item>
+      <title>Radio4000 version 5</title>
+      <link>/posts/radio4000-version-5/</link>
+      <pubDate>Wed, 06 Sep 2017 20:36:24 +0000</pubDate>
+      
+      <guid>/posts/radio4000-version-5/</guid>
+      <description>Good evening!
+Tonight Radio4000 gets updated to a new major version (github#v.5.0.0). We&amp;rsquo;re happy to introduce some new features, and an effort to harmonize the overall experience across the software.
+It is coming in with a new radio channel homepage and a new design now including the latest 10 tracks. A new subpage therefore appears under your radio, /tracks. This choice aims to help improve loading performances, and usability such as easing the experience of adding a new track to one&amp;rsquo;s radio.</description>
+    </item>
+    
+    <item>
+      <title>Radio4000 updates to version 3.3! What’s new?</title>
+      <link>/posts/radio4000-updates-to-version-33-whats-new-in/</link>
+      <pubDate>Mon, 26 Oct 2015 09:11:59 +0000</pubDate>
+      
+      <guid>/posts/radio4000-updates-to-version-33-whats-new-in/</guid>
+      <description>Radio4000 updates to version 3.3! What’s new?In order to explore radios faster, we’ve added a “play ‘n shuffle” button on the radio channel cards. Try it, tap it as many times as you like, we think it makes listening much more fun. Your favorite radios are taking the place of the “most popular radios” section directly on the homepage.We’ve also started implementing a new design for radios, further innovations can be expected in the upcoming versions.</description>
+    </item>
+    
+    <item>
+      <title>How to use the Radio4000 bookmarklet to add tracks faster in my radio?</title>
+      <link>/posts/how-to-use-the-radio4000-bookmarklet-to-add-tracks/</link>
+      <pubDate>Tue, 20 Oct 2015 22:17:19 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-the-radio4000-bookmarklet-to-add-tracks/</guid>
+      <description>How to use the Radio4000 bookmarklet to add tracks faster in my radio?Here is a solution that works for every one, on mac, pc, mobile, tablet or smartwatch (alright, possibly not that one), without having to install anything!Much simpler to explain it with gifs (above), but here is the text explanation:drag the bookmarklet to your browser’s favorite baropen a music you like on Youtube. Click the bookmarklet (you just added it in your browser’s favorite bar!</description>
+    </item>
+    
+    <item>
+      <title>v3.2.0</title>
+      <link>/posts/v320/</link>
+      <pubDate>Thu, 10 Sep 2015 08:31:55 +0000</pubDate>
+      
+      <guid>/posts/v320/</guid>
+      <description>Time flies and so does our new copy on the website. It should be clearer what everything is now. Following along that, you will see that channel descriptions are now everywhere, on a channel detail or on its card &amp;mdash; tell there what your channel is about.
+We also streamlined the header and player design while preparing for the Ember 2.0 update which should make everything leaner.
+Oh, and we added a cheesy loading screen in fifty shades of languages.</description>
+    </item>
+    
+    <item>
+      <title>v3.1.1</title>
+      <link>/posts/v311/</link>
+      <pubDate>Thu, 16 Jul 2015 13:38:54 +0000</pubDate>
+      
+      <guid>/posts/v311/</guid>
+      <description>Today version 3.1.1 of Radio4000 is out!
+When have included a bunch of new features, here is a small list:
+ URL have changed! Find your channel directly at radio.com/yourRadio instead of radio4000.com/c/yourRadio. Easier to remember, more logic but remember to update the links pointing to your radio.  There is now a big Play button on every radio to listen to it straight when you open it. You can now see when a radio was last updated.</description>
+    </item>
+    
+  </channel>
+</rss>

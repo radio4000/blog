@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tip on Radio4000 Blog</title>
+    <link>/tags/tip/</link>
+    <description>Recent content in Tip on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 09:58:25 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Protip: /play &amp; /play/random</title>
+      <link>/posts/protip-quick-play-radio-and-play-random/</link>
+      <pubDate>Tue, 17 Oct 2017 09:58:25 +0000</pubDate>
+      
+      <guid>/posts/protip-quick-play-radio-and-play-random/</guid>
+      <description>Hello there,
+just wanted to share with you two good tips to start listening to a radio as fast as possible.
+Let&amp;rsquo;s take a radio, could be yours, could be anyone else&amp;rsquo;s, let&amp;rsquo;s say balls, radio4000.com/balls, hi balls!
+When you want to play this radio on radio4000.com, you will probably type the address of radio4000 in your web browser, then visit the radio page before finally hitting the play button or a track on the chosen radio.</description>
+    </item>
+    
+  </channel>
+</rss>

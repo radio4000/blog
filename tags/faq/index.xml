@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faq on Radio4000 Blog</title>
+    <link>/tags/faq/</link>
+    <description>Recent content in Faq on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2015 22:17:19 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use the Radio4000 bookmarklet to add tracks faster in my radio?</title>
+      <link>/posts/how-to-use-the-radio4000-bookmarklet-to-add-tracks/</link>
+      <pubDate>Tue, 20 Oct 2015 22:17:19 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-the-radio4000-bookmarklet-to-add-tracks/</guid>
+      <description>How to use the Radio4000 bookmarklet to add tracks faster in my radio?Here is a solution that works for every one, on mac, pc, mobile, tablet or smartwatch (alright, possibly not that one), without having to install anything!Much simpler to explain it with gifs (above), but here is the text explanation:drag the bookmarklet to your browser’s favorite baropen a music you like on Youtube. Click the bookmarklet (you just added it in your browser’s favorite bar!</description>
+    </item>
+    
+  </channel>
+</rss>

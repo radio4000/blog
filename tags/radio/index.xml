@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio on Radio4000 Blog</title>
+    <link>/tags/radio/</link>
+    <description>Recent content in Radio on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 15:20:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Search tracks, listen to results</title>
+      <link>/posts/search-tracks-listen-to-results/</link>
+      <pubDate>Mon, 15 Jan 2018 15:20:11 +0000</pubDate>
+      
+      <guid>/posts/search-tracks-listen-to-results/</guid>
+      <description>Hello!
+Today a new feature appears on the site, tracks search.
+On top of now being able to search any radio tracks, and find the one you want to play, you can from today listen to a selection of tracks from a radio.
+Fig 1. playing selection &amp;ldquo;#after&amp;rdquo; from Radio Tobha
+That&amp;rsquo;s right, you can try it now, go to any radio (of course, yours too!), and explore the list of tracks.</description>
+    </item>
+    
+    <item>
+      <title>Embed a Radio4000 with an Iframe, on any website</title>
+      <link>/posts/radio4000-player-embed-with-iframe/</link>
+      <pubDate>Sun, 22 Oct 2017 23:31:29 +0000</pubDate>
+      
+      <guid>/posts/radio4000-player-embed-with-iframe/</guid>
+      <description>From today you can embed your Radio4000 onto any other webpage. Meet RADIO ARKOV.
+How to use? You need to add to your site the following snippet of code. You will find the right code to be copied at the bottom of every Radio4000 radio page.
+You can customize the values in pixels of `width` and `height` of this `iframe` HTML element to suit your design needs. If you look closer, you will see the part in the `src` property, ending with `?</description>
+    </item>
+    
+    <item>
+      <title>Protip: /play &amp; /play/random</title>
+      <link>/posts/protip-quick-play-radio-and-play-random/</link>
+      <pubDate>Tue, 17 Oct 2017 09:58:25 +0000</pubDate>
+      
+      <guid>/posts/protip-quick-play-radio-and-play-random/</guid>
+      <description>Hello there,
+just wanted to share with you two good tips to start listening to a radio as fast as possible.
+Let&amp;rsquo;s take a radio, could be yours, could be anyone else&amp;rsquo;s, let&amp;rsquo;s say balls, radio4000.com/balls, hi balls!
+When you want to play this radio on radio4000.com, you will probably type the address of radio4000 in your web browser, then visit the radio page before finally hitting the play button or a track on the chosen radio.</description>
+    </item>
+    
+    <item>
+      <title>Radio4000 updates to version 3.3! What’s new?</title>
+      <link>/posts/radio4000-updates-to-version-33-whats-new-in/</link>
+      <pubDate>Mon, 26 Oct 2015 09:11:59 +0000</pubDate>
+      
+      <guid>/posts/radio4000-updates-to-version-33-whats-new-in/</guid>
+      <description>Radio4000 updates to version 3.3! What’s new?In order to explore radios faster, we’ve added a “play ‘n shuffle” button on the radio channel cards. Try it, tap it as many times as you like, we think it makes listening much more fun. Your favorite radios are taking the place of the “most popular radios” section directly on the homepage.We’ve also started implementing a new design for radios, further innovations can be expected in the upcoming versions.</description>
+    </item>
+    
+  </channel>
+</rss>

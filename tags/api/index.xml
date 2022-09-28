@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on Radio4000 Blog</title>
+    <link>/tags/api/</link>
+    <description>Recent content in Api on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Oct 2017 15:47:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>API for Radio4000.com</title>
+      <link>/posts/api-for-radio4000com/</link>
+      <pubDate>Mon, 16 Oct 2017 15:47:53 +0000</pubDate>
+      
+      <guid>/posts/api-for-radio4000com/</guid>
+      <description>Yes, Radio4000 now officially has an API!
+api: https://api.radio4000.com
+documentation &amp;amp; code: https://github.com/internet4000/radio4000-api
+This means you can now use the public data from Radio4000.com (such as the radio channels and their tracks) to create any softwares, hardwares, websites or applications.
+What is an API?
+An API (application programming interface) can take many aspects and is a term generally used in software development. In the current case we could summarize it as a set of tools and specifications defined (here by the Radio4000 team) to help developers apprehend and use data made available through the API.</description>
+    </item>
+    
+  </channel>
+</rss>

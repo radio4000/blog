@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Radio4000 Blog</title>
+    <link>/tags/music/</link>
+    <description>Recent content in Music on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 May 2018 12:19:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to discover new music?</title>
+      <link>/posts/how-to-discover-new-music/</link>
+      <pubDate>Thu, 24 May 2018 12:19:10 +0000</pubDate>
+      
+      <guid>/posts/how-to-discover-new-music/</guid>
+      <description>An extensive guide on how to discover new music. TBC.
+How does new music appear? As silly as it sounds, some people create music and then decide to share it to the public. It can be shared on various supports, digital (a file, mp3, wav, aif, ogg, flac etc.), analog (tape, vinyl record), or mixed (CD, mixing digital and analog). The same music can be released on many supports. These suports have different properties, some make it easy to share the music.</description>
+    </item>
+    
+    <item>
+      <title>Backup your Radio4000 radio data</title>
+      <link>/posts/backup-your-radio4000-data/</link>
+      <pubDate>Thu, 24 May 2018 08:04:05 +0000</pubDate>
+      
+      <guid>/posts/backup-your-radio4000-data/</guid>
+      <description>While using Radio4000 each user are building a library of sounds. All the tunes added in your radio, its name, description, compose the data associated with your account on the application.
+You own this data, all content you add on Radio4000.
+Therefore you should have the possibility to always have this data stored where you would like. Radio4000 is simply a space online where you can store and edit it.</description>
+    </item>
+    
+    <item>
+      <title>Search tracks, listen to results</title>
+      <link>/posts/search-tracks-listen-to-results/</link>
+      <pubDate>Mon, 15 Jan 2018 15:20:11 +0000</pubDate>
+      
+      <guid>/posts/search-tracks-listen-to-results/</guid>
+      <description>Hello!
+Today a new feature appears on the site, tracks search.
+On top of now being able to search any radio tracks, and find the one you want to play, you can from today listen to a selection of tracks from a radio.
+Fig 1. playing selection &amp;ldquo;#after&amp;rdquo; from Radio Tobha
+That&amp;rsquo;s right, you can try it now, go to any radio (of course, yours too!), and explore the list of tracks.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard shortcuts</title>
+      <link>/posts/keyboard-shortcuts/</link>
+      <pubDate>Wed, 22 Nov 2017 14:46:50 +0000</pubDate>
+      
+      <guid>/posts/keyboard-shortcuts/</guid>
+      <description>You enjoy discovering and sharing music on Radio4000, but you would like the experience to be done without the mouse, keyboard only?
+We just implemented new Keyboard shortcuts to improve your time on the site. find the full up-to-date list on in the support center.
+Fig 1: keyboard shortcut `g m`, &amp;ldquo;go to map&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Map for Radio4000</title>
+      <link>/posts/map-for-radio4000/</link>
+      <pubDate>Fri, 03 Nov 2017 17:20:08 +0000</pubDate>
+      
+      <guid>/posts/map-for-radio4000/</guid>
+      <description>There is a new way to discover Radio4000 channels online, a map of the world.
+As of today everyone can position their Radio4000 channel to one location in the world. So can you!
+There are no restriction, nor any obligation. As always freedom first. You only decide if and where you would like your channel to appear on the map; where your body resides or your heart belongs, it is and will remain your choice.</description>
+    </item>
+    
+    <item>
+      <title>Embed a Radio4000 with an Iframe, on any website</title>
+      <link>/posts/radio4000-player-embed-with-iframe/</link>
+      <pubDate>Sun, 22 Oct 2017 23:31:29 +0000</pubDate>
+      
+      <guid>/posts/radio4000-player-embed-with-iframe/</guid>
+      <description>From today you can embed your Radio4000 onto any other webpage. Meet RADIO ARKOV.
+How to use? You need to add to your site the following snippet of code. You will find the right code to be copied at the bottom of every Radio4000 radio page.
+You can customize the values in pixels of `width` and `height` of this `iframe` HTML element to suit your design needs. If you look closer, you will see the part in the `src` property, ending with `?</description>
+    </item>
+    
+    <item>
+      <title>Protip: /play &amp; /play/random</title>
+      <link>/posts/protip-quick-play-radio-and-play-random/</link>
+      <pubDate>Tue, 17 Oct 2017 09:58:25 +0000</pubDate>
+      
+      <guid>/posts/protip-quick-play-radio-and-play-random/</guid>
+      <description>Hello there,
+just wanted to share with you two good tips to start listening to a radio as fast as possible.
+Let&amp;rsquo;s take a radio, could be yours, could be anyone else&amp;rsquo;s, let&amp;rsquo;s say balls, radio4000.com/balls, hi balls!
+When you want to play this radio on radio4000.com, you will probably type the address of radio4000 in your web browser, then visit the radio page before finally hitting the play button or a track on the chosen radio.</description>
+    </item>
+    
+    <item>
+      <title>API for Radio4000.com</title>
+      <link>/posts/api-for-radio4000com/</link>
+      <pubDate>Mon, 16 Oct 2017 15:47:53 +0000</pubDate>
+      
+      <guid>/posts/api-for-radio4000com/</guid>
+      <description>Yes, Radio4000 now officially has an API!
+api: https://api.radio4000.com
+documentation &amp;amp; code: https://github.com/internet4000/radio4000-api
+This means you can now use the public data from Radio4000.com (such as the radio channels and their tracks) to create any softwares, hardwares, websites or applications.
+What is an API?
+An API (application programming interface) can take many aspects and is a term generally used in software development. In the current case we could summarize it as a set of tools and specifications defined (here by the Radio4000 team) to help developers apprehend and use data made available through the API.</description>
+    </item>
+    
+  </channel>
+</rss>

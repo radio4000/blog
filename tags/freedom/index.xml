@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freedom on Radio4000 Blog</title>
+    <link>/tags/freedom/</link>
+    <description>Recent content in Freedom on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2017 23:31:29 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embed a Radio4000 with an Iframe, on any website</title>
+      <link>/posts/radio4000-player-embed-with-iframe/</link>
+      <pubDate>Sun, 22 Oct 2017 23:31:29 +0000</pubDate>
+      
+      <guid>/posts/radio4000-player-embed-with-iframe/</guid>
+      <description>From today you can embed your Radio4000 onto any other webpage. Meet RADIO ARKOV.
+How to use? You need to add to your site the following snippet of code. You will find the right code to be copied at the bottom of every Radio4000 radio page.
+You can customize the values in pixels of `width` and `height` of this `iframe` HTML element to suit your design needs. If you look closer, you will see the part in the `src` property, ending with `?</description>
+    </item>
+    
+  </channel>
+</rss>

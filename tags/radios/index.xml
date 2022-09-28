@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radios on Radio4000 Blog</title>
+    <link>/tags/radios/</link>
+    <description>Recent content in Radios on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 May 2018 12:40:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/radios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A list of online and offline radio channels</title>
+      <link>/posts/radio-list/</link>
+      <pubDate>Sat, 26 May 2018 12:40:53 +0000</pubDate>
+      
+      <guid>/posts/radio-list/</guid>
+      <description>Most can be listened to online, on the broadcaster&amp;rsquo;s website or in some application. For the rest, you might have to connect to the AM/FM waves, turn on the radio in your car, also possibly change country.
+Databases and applications  Transnational Radio Knowledge Platform - a great database of transnational radio stations, the one broadcasting on purpose over countries and borders. tunein - good user experience on this mobile application for listening to podcast and radios.</description>
+    </item>
+    
+  </channel>
+</rss>

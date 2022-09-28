@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V3.1.1 on Radio4000 Blog</title>
+    <link>/tags/v3.1.1/</link>
+    <description>Recent content in V3.1.1 on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2015 13:38:54 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/v3.1.1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>v3.1.1</title>
+      <link>/posts/v311/</link>
+      <pubDate>Thu, 16 Jul 2015 13:38:54 +0000</pubDate>
+      
+      <guid>/posts/v311/</guid>
+      <description>Today version 3.1.1 of Radio4000 is out!
+When have included a bunch of new features, here is a small list:
+ URL have changed! Find your channel directly at radio.com/yourRadio instead of radio4000.com/c/yourRadio. Easier to remember, more logic but remember to update the links pointing to your radio.  There is now a big Play button on every radio to listen to it straight when you open it. You can now see when a radio was last updated.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization on Radio4000 Blog</title>
+    <link>/tags/organization/</link>
+    <description>Recent content in Organization on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 May 2018 12:19:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to discover new music?</title>
+      <link>/posts/how-to-discover-new-music/</link>
+      <pubDate>Thu, 24 May 2018 12:19:10 +0000</pubDate>
+      
+      <guid>/posts/how-to-discover-new-music/</guid>
+      <description>An extensive guide on how to discover new music. TBC.
+How does new music appear? As silly as it sounds, some people create music and then decide to share it to the public. It can be shared on various supports, digital (a file, mp3, wav, aif, ogg, flac etc.), analog (tape, vinyl record), or mixed (CD, mixing digital and analog). The same music can be released on many supports. These suports have different properties, some make it easy to share the music.</description>
+    </item>
+    
+    <item>
+      <title>Backup your Radio4000 radio data</title>
+      <link>/posts/backup-your-radio4000-data/</link>
+      <pubDate>Thu, 24 May 2018 08:04:05 +0000</pubDate>
+      
+      <guid>/posts/backup-your-radio4000-data/</guid>
+      <description>While using Radio4000 each user are building a library of sounds. All the tunes added in your radio, its name, description, compose the data associated with your account on the application.
+You own this data, all content you add on Radio4000.
+Therefore you should have the possibility to always have this data stored where you would like. Radio4000 is simply a space online where you can store and edit it.</description>
+    </item>
+    
+  </channel>
+</rss>

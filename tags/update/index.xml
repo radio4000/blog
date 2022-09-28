@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on Radio4000 Blog</title>
+    <link>/tags/update/</link>
+    <description>Recent content in Update on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2015 08:31:55 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>v3.2.0</title>
+      <link>/posts/v320/</link>
+      <pubDate>Thu, 10 Sep 2015 08:31:55 +0000</pubDate>
+      
+      <guid>/posts/v320/</guid>
+      <description>Time flies and so does our new copy on the website. It should be clearer what everything is now. Following along that, you will see that channel descriptions are now everywhere, on a channel detail or on its card &amp;mdash; tell there what your channel is about.
+We also streamlined the header and player design while preparing for the Ember 2.0 update which should make everything leaner.
+Oh, and we added a cheesy loading screen in fifty shades of languages.</description>
+    </item>
+    
+    <item>
+      <title>v3.1.1</title>
+      <link>/posts/v311/</link>
+      <pubDate>Thu, 16 Jul 2015 13:38:54 +0000</pubDate>
+      
+      <guid>/posts/v311/</guid>
+      <description>Today version 3.1.1 of Radio4000 is out!
+When have included a bunch of new features, here is a small list:
+ URL have changed! Find your channel directly at radio.com/yourRadio instead of radio4000.com/c/yourRadio. Easier to remember, more logic but remember to update the links pointing to your radio.  There is now a big Play button on every radio to listen to it straight when you open it. You can now see when a radio was last updated.</description>
+    </item>
+    
+  </channel>
+</rss>

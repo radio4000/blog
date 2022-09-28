@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release on Radio4000 Blog</title>
+    <link>/tags/release/</link>
+    <description>Recent content in Release on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2017 20:36:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radio4000 version 5</title>
+      <link>/posts/radio4000-version-5/</link>
+      <pubDate>Wed, 06 Sep 2017 20:36:24 +0000</pubDate>
+      
+      <guid>/posts/radio4000-version-5/</guid>
+      <description>Good evening!
+Tonight Radio4000 gets updated to a new major version (github#v.5.0.0). We&amp;rsquo;re happy to introduce some new features, and an effort to harmonize the overall experience across the software.
+It is coming in with a new radio channel homepage and a new design now including the latest 10 tracks. A new subpage therefore appears under your radio, /tracks. This choice aims to help improve loading performances, and usability such as easing the experience of adding a new track to one&amp;rsquo;s radio.</description>
+    </item>
+    
+    <item>
+      <title>v3.1.0</title>
+      <link>/posts/v310/</link>
+      <pubDate>Fri, 12 Jun 2015 16:44:42 +0000</pubDate>
+      
+      <guid>/posts/v310/</guid>
+      <description>Hi &amp;mdash; today we&amp;rsquo;ve been upgrading Radio4000 and it&amp;rsquo;s live!
+ More images a bookmarklet to easily add tracks directly while you&amp;rsquo;re browsing YouTube. filtering and search is back on Discover everything is faster with the new Glimmer rendering engine from Ember.  All in all the best Radio4000 so far!
+As usual, if you need help, have feedback or any other inquiries just use the way to contact us you prefer, please!</description>
+    </item>
+    
+  </channel>
+</rss>

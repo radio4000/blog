@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V3.3 on Radio4000 Blog</title>
+    <link>/tags/v3.3/</link>
+    <description>Recent content in V3.3 on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2015 09:11:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/v3.3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radio4000 updates to version 3.3! What’s new?</title>
+      <link>/posts/radio4000-updates-to-version-33-whats-new-in/</link>
+      <pubDate>Mon, 26 Oct 2015 09:11:59 +0000</pubDate>
+      
+      <guid>/posts/radio4000-updates-to-version-33-whats-new-in/</guid>
+      <description>Radio4000 updates to version 3.3! What’s new?In order to explore radios faster, we’ve added a “play ‘n shuffle” button on the radio channel cards. Try it, tap it as many times as you like, we think it makes listening much more fun. Your favorite radios are taking the place of the “most popular radios” section directly on the homepage.We’ve also started implementing a new design for radios, further innovations can be expected in the upcoming versions.</description>
+    </item>
+    
+  </channel>
+</rss>

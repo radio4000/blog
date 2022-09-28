@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature on Radio4000 Blog</title>
+    <link>/tags/feature/</link>
+    <description>Recent content in Feature on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 May 2018 08:04:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backup your Radio4000 radio data</title>
+      <link>/posts/backup-your-radio4000-data/</link>
+      <pubDate>Thu, 24 May 2018 08:04:05 +0000</pubDate>
+      
+      <guid>/posts/backup-your-radio4000-data/</guid>
+      <description>While using Radio4000 each user are building a library of sounds. All the tunes added in your radio, its name, description, compose the data associated with your account on the application.
+You own this data, all content you add on Radio4000.
+Therefore you should have the possibility to always have this data stored where you would like. Radio4000 is simply a space online where you can store and edit it.</description>
+    </item>
+    
+    <item>
+      <title>Search tracks, listen to results</title>
+      <link>/posts/search-tracks-listen-to-results/</link>
+      <pubDate>Mon, 15 Jan 2018 15:20:11 +0000</pubDate>
+      
+      <guid>/posts/search-tracks-listen-to-results/</guid>
+      <description>Hello!
+Today a new feature appears on the site, tracks search.
+On top of now being able to search any radio tracks, and find the one you want to play, you can from today listen to a selection of tracks from a radio.
+Fig 1. playing selection &amp;ldquo;#after&amp;rdquo; from Radio Tobha
+That&amp;rsquo;s right, you can try it now, go to any radio (of course, yours too!), and explore the list of tracks.</description>
+    </item>
+    
+    <item>
+      <title>Embed a Radio4000 with an Iframe, on any website</title>
+      <link>/posts/radio4000-player-embed-with-iframe/</link>
+      <pubDate>Sun, 22 Oct 2017 23:31:29 +0000</pubDate>
+      
+      <guid>/posts/radio4000-player-embed-with-iframe/</guid>
+      <description>From today you can embed your Radio4000 onto any other webpage. Meet RADIO ARKOV.
+How to use? You need to add to your site the following snippet of code. You will find the right code to be copied at the bottom of every Radio4000 radio page.
+You can customize the values in pixels of `width` and `height` of this `iframe` HTML element to suit your design needs. If you look closer, you will see the part in the `src` property, ending with `?</description>
+    </item>
+    
+  </channel>
+</rss>

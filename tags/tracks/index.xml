@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracks on Radio4000 Blog</title>
+    <link>/tags/tracks/</link>
+    <description>Recent content in Tracks on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 15:20:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tracks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Search tracks, listen to results</title>
+      <link>/posts/search-tracks-listen-to-results/</link>
+      <pubDate>Mon, 15 Jan 2018 15:20:11 +0000</pubDate>
+      
+      <guid>/posts/search-tracks-listen-to-results/</guid>
+      <description>Hello!
+Today a new feature appears on the site, tracks search.
+On top of now being able to search any radio tracks, and find the one you want to play, you can from today listen to a selection of tracks from a radio.
+Fig 1. playing selection &amp;ldquo;#after&amp;rdquo; from Radio Tobha
+That&amp;rsquo;s right, you can try it now, go to any radio (of course, yours too!), and explore the list of tracks.</description>
+    </item>
+    
+  </channel>
+</rss>

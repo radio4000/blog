@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Radio4000 Blog</title>
+    <link>/tags/updates/</link>
+    <description>Recent content in Updates on Radio4000 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 08:49:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>There is a new design for Radio4000</title>
+      <link>/posts/there-is-a-new-design-for-radio4000-as-well-as-a/</link>
+      <pubDate>Wed, 12 Apr 2017 08:49:59 +0000</pubDate>
+      
+      <guid>/posts/there-is-a-new-design-for-radio4000-as-well-as-a/</guid>
+      <description>There is a new design for radio4000, as well as a new logo, and some new features:upgraded @usernames radio4000.com/your-usernamelogin with an email (use Email, Google, Facebook)link your Radio4000 to your Email, Google and Facebook, use any of the three (or the three) to login to your accountfilter radio channels be better serendipity; order them by last updated, age, or alphabetic ordersimplified navigation through the app and radio directorysend us a feedback or ask for help fastercontrol Radio4000 on your Android device when your screen is locked (works with Firefox browser)public API comming soon!</description>
+    </item>
+    
+    <item>
+      <title>It’s the small things…</title>
+      <link>/posts/its-the-small-things/</link>
+      <pubDate>Sat, 03 Sep 2016 14:48:57 +0000</pubDate>
+      
+      <guid>/posts/its-the-small-things/</guid>
+      <description>A new update is out on Radio4000 &amp;mdash; it&amp;rsquo;s now faster to add a track to your radio. Whereas before you&amp;rsquo;d have to go to your radio and first then tap add track, now you can add directly from anywhere on Radio4000.
+If you&amp;rsquo;re not already using the bookmarklet, you should try it out. After you&amp;rsquo;ve saved the bookmarklet it&amp;rsquo;s only two-taps to add a track while you&amp;rsquo;re browsing YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Radio4000 updates to version 3.3! What’s new?</title>
+      <link>/posts/radio4000-updates-to-version-33-whats-new-in/</link>
+      <pubDate>Mon, 26 Oct 2015 09:11:59 +0000</pubDate>
+      
+      <guid>/posts/radio4000-updates-to-version-33-whats-new-in/</guid>
+      <description>Radio4000 updates to version 3.3! What’s new?In order to explore radios faster, we’ve added a “play ‘n shuffle” button on the radio channel cards. Try it, tap it as many times as you like, we think it makes listening much more fun. Your favorite radios are taking the place of the “most popular radios” section directly on the homepage.We’ve also started implementing a new design for radios, further innovations can be expected in the upcoming versions.</description>
+    </item>
+    
+  </channel>
+</rss>
