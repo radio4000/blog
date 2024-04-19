@@ -23,11 +23,9 @@ To learn what to do, read [hugo's documentation](https://gohugo.io/).
 
 ## Deployment
 
-In the actual setup, the branch `master` is automatically deployed via
-Netlify.
+The `main` branch is deployed to blog.radio4000.com via GitHub Pages.
 
 If you want to deploy it yourself:
 
-1- in this folder, run `hugo`, to build a new version with the latest
-changes, inside the `./public` folder
-2- deploy the `./public` folder on your server.
+1. Run `hugo` in this folder, to build a new version with the latest changes to the `./public` folder
+2. Deploy the `./public` folder on your server
