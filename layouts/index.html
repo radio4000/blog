@@ -12,20 +12,19 @@
 		{{ if .Draft }} ::Draft{{ end }}
 	</h2>
 
-	{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content }}
-	{{ $image := (index $images 0) }}
-	{{ with $image }}
-	<figure class="Thumbnail">
-		{{ $image | safeHTML }} 
-	</figure>
-	{{ end }}
+	{{ .Content }}
 
-	<p>
-		{{ .Summary }}
-		{{ if .Truncated }}
-		<a href="{{ .RelPermalink }}">Read more…</a>
-		{{ end }}
-	</p>
+		{{/* 
+			{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content }}
+			{{ $image := (index $images 0) }}
+			{{ with $image }}
+			<figure class="Thumbnail">
+				{{ $image | safeHTML }} 
+			</figure>
+			{{ end }}
+				{{ .Summary | .RenderString }}
+			{{ if .Truncated } <a href="{{ .RelPermalink }}">Read more…</a> {{ end }}
+		*/}}
 </article>
 {{ end }}
 
