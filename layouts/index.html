@@ -5,12 +5,12 @@
 	<p class="Meta">
 		<time>{{ .Date.Format " 2. January 2006" }}</time>
 	</p>
-	<h2 class="Title">
+	<h1 class="Title">
 		<a href="{{ .Permalink }}">
 			{{ .Title }}
 		</a>
 		{{ if .Draft }} ::Draft{{ end }}
-	</h2>
+	</h1>
 
 	{{ .Content }}
 
