@@ -56,20 +56,14 @@ A company named `Link Foundation`, through their [LF Tutorial System
 YouTube channel](https://www.youtube.com/@lftutorialsystem3657),
 offers a tutorial on how to manually spam over 561 different services.
 
-> You [can check if a service is affected by spam by browsing their
-> YouTube
-> channel](https://www.youtube.com/@lftutorialsystem3657/videos) and
-> searching manually for its name. It appears that affected websites
-> are relatively small/medium projects (or instances of projects like
-> Mastodon, etc.), where SEO may be especially strong due to low user
-> numbers and quality content.
+# Affected services
+You [can check if a service is affected by spam by browsing their
+YouTube channel](https://www.youtube.com/@lftutorialsystem3657/videos)
+and searching manually for its name.
 
-At least 382 subscribers—possibly the same person and their army of
-fake accounts—follow this YouTube channel. The need for a tutorial
-also suggests this might be a company sharing knowledge
-internally. The videos show an organized system using shared
-spreadsheets of target sites, tutorials to follow, and payment links
-for clients.
+It appears that affected websites are relatively small/medium projects
+(or instances of projects like Mastodon, etc.), where SEO may be
+especially strong due to low user numbers and quality content.
 
 # What Now?
 With the release of radio4000 v2, we implemented (h)captcha
