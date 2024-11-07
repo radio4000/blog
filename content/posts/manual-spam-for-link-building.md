@@ -95,9 +95,10 @@ link to a radio page, there’s no incentive for users to create a
 profile solely for a "backlink" to their website.
 
 # Product Notes
-The need for a tutorial might indicate that our site's user experience
-needs more clarity. (@TODO: Make it clearer how to create a channel
-and post new tracks.)
+As nice as it is to have such good user experience feedback with a
+video, the need for a tutorial might indicate that our site's user
+experience needs more clarity. (@TODO: Make it clearer how to create a
+channel and post new tracks.)
 
 # Additional Notes
 If you have a project to promote or services to offer new clients,
