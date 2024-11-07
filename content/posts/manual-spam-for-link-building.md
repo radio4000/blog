@@ -63,7 +63,13 @@ and searching manually for its name.
 
 It appears that affected websites are relatively small/medium projects
 (or instances of projects like Mastodon, etc.), where SEO may be
-especially strong due to low user numbers and quality content.
+especially strong due to low user numbers and quality content. Larger
+websites are also affected.
+
+
+![backlink is good in playlists](/images/spam-as-playlist.png)
+
+> Why there is a pattern for "audiophiles websites" to be targeted.
 
 # What Now?
 With the release of radio4000 v2, we implemented (h)captcha
