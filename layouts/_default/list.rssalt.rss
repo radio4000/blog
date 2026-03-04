@@ -1,0 +1,1 @@
+{{ partial "rssalt.xml" . }}

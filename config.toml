@@ -4,7 +4,18 @@ relativeURLs = true
 languageCode = "en-us"
 title = "Radio4000 Blog"
 paginate = 999
+[mediaTypes]
+  [mediaTypes."application/rss+xml"]
+    suffixes = ["xml"]
+  [mediaTypes."application/rss-alt+xml"]
+    suffixes = ["rss"]
+[outputFormats]
+  [outputFormats.RSSALT]
+    mediaType = "application/rss-alt+xml"
+    baseName = "index"
+    rel = "alternate"
+    noUgly = true
 [outputs]
   page = ["HTML", "json"]
-  section = ["HTML", "json", "RSS"]
-  home = ["HTML", "json", "RSS"]
+  section = ["HTML", "json", "RSS", "RSSALT"]
+  home = ["HTML", "json", "RSS", "RSSALT"]

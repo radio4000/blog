@@ -1,0 +1,30 @@
+{{- $title := .Site.Title -}}
+{{- if not .IsHome -}}
+  {{- $title = printf "%s | %s" .Title .Site.Title -}}
+{{- end -}}
+{{- $description := .Site.Params.description | default .Site.Title -}}
+{{- $pages := .RegularPages -}}
+{{- if .IsHome -}}
+  {{- $pages = .Site.RegularPages -}}
+{{- end -}}
+{{- $pages = $pages.ByDate.Reverse -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ $title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ $description }}</description>
+    <generator>Hugo</generator>
+    {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
+    {{ with .OutputFormats.Get "RSSALT" }}<atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />{{ end }}
+    {{ range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Summary | plainify }}</description>
+    </item>
+    {{ end }}
+  </channel>
+</rss>

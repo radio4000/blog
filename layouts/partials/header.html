@@ -11,16 +11,29 @@
 	{{ if .Site.Params.Info.enableSocial }}
 	{{- partial "social/opengraph" . -}}
 	{{ end }}
+	{{ with .Site.Home.OutputFormats.Get "RSSALT" }}
+	<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} RSS" href="{{ .Permalink }}">
+	{{ end }}
 	<!-- <link rel="stylesheet" href="https://assets.radio4000.com/styles.css"> -->
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css">
 </head>
 <body>
-
-	<h1 class="Logo">
-		<a href="{{ .Site.BaseURL }}">
-			{{ .Site.Title }}
-		</a>
-		<a href="https://radio4000.com">
-			radio4000.com &rarr;
-		</a>
-	</h1>
+	<header class="SiteHeader">
+		{{ if .IsHome }}
+		<h1 class="Logo">
+			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+		</h1>
+		{{ else }}
+		<p class="Logo">
+			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+		</p>
+		{{ end }}
+		<p class="Tagline">Updates and notes from the Radio4000 project.</p>
+		<nav class="HeaderNav" aria-label="Main navigation">
+			<a href="{{ .Site.BaseURL }}">Posts</a>
+			{{ with .Site.Home.OutputFormats.Get "RSSALT" }}
+			<a href="{{ .RelPermalink }}">RSS</a>
+			{{ end }}
+			<a href="https://radio4000.com">radio4000.com &rarr;</a>
+		</nav>
+	</header>

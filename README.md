@@ -12,7 +12,9 @@ You can query the posts in `json` format.
 |endpoint|response|
 |--------|--------|
 |https://blog.radio4000.com/index.json| home page posts|
+|https://blog.radio4000.com/index.rss| home page posts RSS feed|
 |https://blog.radio4000.com/posts/index.json|all posts|
+|https://blog.radio4000.com/posts/index.rss|all posts RSS feed|
 |https://blog.radio4000.com/posts/${post-slug}|query a single post, by its slug (its url)|
 
 ## Development
