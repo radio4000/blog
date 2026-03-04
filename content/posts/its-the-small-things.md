@@ -3,8 +3,10 @@ date: "2016-09-03T14:48:57.000Z"
 slug: its-the-small-things
 tags:
 - updates
-- 4.2.0
+- 4-2-0
 title: It’s the small things…
+categories:
+- Releases & Updates
 ---
 
 A new update is out on [Radio4000](https://radio4000.com/bookmarklet)

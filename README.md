@@ -17,6 +17,24 @@ You can query the posts in `json` format.
 |https://blog.radio4000.com/posts/index.rss|all posts RSS feed|
 |https://blog.radio4000.com/posts/${post-slug}|query a single post, by its slug (its url)|
 
+## Taxonomy
+
+Posts use:
+
+- `categories` for broad editorial grouping
+- `tags` for specific keywords (slug style: lowercase + dash-separated)
+
+Current categories:
+
+- `Releases & Updates`
+- `Features & How-To`
+- `Music Discovery & Community`
+- `Platform & Operations`
+
+For new posts, `categories` is required. Use 1 category by default, 2 only when a post is clearly cross-cutting.
+
+For new tags, always use slug format (`my-tag`) so tag URLs and labels stay consistent.
+
 ## Development
 
 To develop, clone this repository and run `hugo serve` in the folder.

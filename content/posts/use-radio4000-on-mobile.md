@@ -6,6 +6,8 @@ tags:
 - mobile
 - tips
 title: Use Radio4000.com on mobile devices
+categories:
+- Features & How-To
 ---
 
 Since the beginning of the project Radio4000 has been thought,

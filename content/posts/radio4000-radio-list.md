@@ -3,8 +3,10 @@ date: "2018-05-26 12:40:53"
 slug: radio-list
 tags:
 - radios
-- radio list
+- radio-list
 title: A list of online and offline radio channels
+categories:
+- Music Discovery & Community
 ---
 
 Most can be listened to online, on the broadcaster's website or in some

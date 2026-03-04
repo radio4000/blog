@@ -11,6 +11,8 @@ tags:
 - easy
 - freedom
 title: Embed a Radio4000 with an Iframe, on any website
+categories:
+- Features & How-To
 ---
 
 From today you can embed your Radio4000 onto any other webpage.

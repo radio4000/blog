@@ -2,8 +2,10 @@
 date: "2015-05-03T07:00:58.000Z"
 slug: site-update-may-2nd-2015
 tags:
-- siteUpdate
+- siteupdate
 title: Site Update, May 2nd 2015
+categories:
+- Releases & Updates
 ---
 
 What is new?

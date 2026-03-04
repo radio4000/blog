@@ -1,6 +1,8 @@
 ---
 date: "2015-04-01T10:45:28.000Z"
 title: Older logs
+categories:
+- Releases & Updates
 ---
 
 An internal timeline of things we pushed on

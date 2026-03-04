@@ -9,6 +9,8 @@ tags:
 - radio4000
 - tracks
 title: Search tracks, listen to results
+categories:
+- Features & How-To
 ---
 
 Hello!

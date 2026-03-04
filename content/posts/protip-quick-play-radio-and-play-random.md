@@ -8,6 +8,8 @@ tags:
 - music
 - radio
 title: 'Protip: /play & /play/random'
+categories:
+- Features & How-To
 ---
 
 Hello there,

@@ -2,10 +2,12 @@
 date: "2017-09-06T20:36:24.000Z"
 tags:
 - release
-- v5.0.0
+- v5-0-0
 - radio4000
 - new
 title: Radio4000 version 5
+categories:
+- Releases & Updates
 ---
 
 Good evening!

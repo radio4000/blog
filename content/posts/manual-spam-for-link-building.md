@@ -1,6 +1,8 @@
 ---
 title: "Manual Spam Tutorial for Link Building on radio4000.com (and 500+ Other Services)"
 date: 2024-11-07
+categories:
+- Platform & Operations
 ---
 
 > **Note**: This is not a tutorial for spam.

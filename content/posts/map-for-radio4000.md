@@ -3,14 +3,16 @@ date: "2017-11-03T17:20:08.000Z"
 slug: map-for-radio4000
 tags:
 - map
-- world map
+- world-map
 - radio4000
-- internet radio
+- internet-radio
 - music
 - diversity
 - personalities
-- cultural diversity
+- cultural-diversity
 title: Map for Radio4000
+categories:
+- Music Discovery & Community
 ---
 
 ![](/images/tumblr_inline_oyundzTakN1qcamag_1280.jpg)

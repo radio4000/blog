@@ -19,3 +19,6 @@ paginate = 999
   page = ["HTML", "json"]
   section = ["HTML", "json", "RSS", "RSSALT"]
   home = ["HTML", "json", "RSS", "RSSALT"]
+[taxonomies]
+  category = "categories"
+  tag = "tags"

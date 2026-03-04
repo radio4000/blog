@@ -2,6 +2,8 @@
 title: "Removing sign-up (then logins), with social providers Google and Facebook"
 date: 2020-12-29
 slug: removing-social-provider-login-with-google-facebook
+categories:
+- Platform & Operations
 ---
 
 > In an effort to free the project from dependencies, the creation of

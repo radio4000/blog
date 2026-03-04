@@ -2,6 +2,8 @@
 date: 2022-10-31
 title: "Still here"
 slug: still-here
+categories:
+- Platform & Operations
 ---
 
 Seven years later and somehow Radio4000 is still online and blasting music. The now rather old technology that runs it however is difficult to maintain. It's not fun.

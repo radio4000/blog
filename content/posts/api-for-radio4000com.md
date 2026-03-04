@@ -7,8 +7,11 @@ tags:
 - free
 - software
 - music
-- cultural diversity
+- cultural-diversity
 title: API for Radio4000.com
+categories:
+- Features & How-To
+- Platform & Operations
 ---
 
 Yes, Radio4000 now officially has an **API**!

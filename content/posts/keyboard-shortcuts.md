@@ -2,11 +2,13 @@
 date: "2017-11-22T14:46:50.000Z"
 slug: keyboard-shortcuts
 tags:
-- keyboard shortcuts
+- keyboard-shortcuts
 - productivity
 - music
 - youtube
 title: Keyboard shortcuts
+categories:
+- Features & How-To
 ---
 
 You enjoy discovering and sharing music on Radio4000, but you would like the experience to be done without the mouse, keyboard only?

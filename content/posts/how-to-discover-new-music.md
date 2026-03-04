@@ -5,6 +5,8 @@ tags:
 - organization
 - article
 title: How to discover new music?
+categories:
+- Music Discovery & Community
 ---
 
 An extensive guide on how to discover new music. TBC.

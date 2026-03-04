@@ -1,6 +1,8 @@
 ---
 title: "Smarter Settings"
 date: 2018-06-11T13:51:20+02:00
+categories:
+- Features & How-To
 ---
 
 We've unified your Radio4000 settings. Now there's a single location at [radio4000.com/settings](https://radio4000.com/settings), where you can customize your radio, add it to the global Radio4000 map, make a backup or manage your account.

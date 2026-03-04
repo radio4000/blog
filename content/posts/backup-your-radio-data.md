@@ -6,6 +6,8 @@ tags:
 - organization
 - feature
 title: Backup your Radio4000 radio data
+categories:
+- Features & How-To
 ---
 
 While using Radio4000 each user are building a library of sounds. All
