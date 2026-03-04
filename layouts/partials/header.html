@@ -18,6 +18,10 @@
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css">
 </head>
 <body>
+	{{- $rel := .RelPermalink -}}
+	{{- $isPosts := or .IsHome (hasPrefix $rel "/posts/") -}}
+	{{- $isCategories := hasPrefix $rel "/categories/" -}}
+	{{- $isTags := hasPrefix $rel "/tags/" -}}
 	<header class="SiteHeader">
 		{{ if .IsHome }}
 		<h1 class="Logo">
@@ -30,7 +34,9 @@
 		{{ end }}
 		<p class="Tagline">Updates and notes from the Radio4000 project.</p>
 		<nav class="HeaderNav" aria-label="Main navigation">
-			<a href="{{ .Site.BaseURL }}">Posts</a>
+			<a href="{{ .Site.BaseURL }}" {{ if $isPosts }}class="is-active" aria-current="page"{{ end }}>Posts</a>
+			<a href="{{ "categories" | relURL }}" {{ if $isCategories }}class="is-active" aria-current="page"{{ end }}>Categories</a>
+			<a href="{{ "tags" | relURL }}" {{ if $isTags }}class="is-active" aria-current="page"{{ end }}>Tags</a>
 			{{ with .Site.Home.OutputFormats.Get "RSSALT" }}
 			<a href="{{ .RelPermalink }}">RSS</a>
 			{{ end }}

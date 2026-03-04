@@ -1,31 +1,36 @@
 {{ partial "header" . }}
 
-{{ range sort .Paginator.Pages }}
-<article>
+<main class="PostList">
+{{ partial "last-updated.html" (dict "pages" .Site.RegularPages) }}
+{{ range .Paginator.Pages }}
+<article class="PostCard">
 	<p class="Meta">
-		<time>{{ .Date.Format " 2. January 2006" }}</time>
+		<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
 	</p>
-	<h1 class="Title">
+	<h2 class="Title">
 		<a href="{{ .Permalink }}">
 			{{ .Title }}
 		</a>
 		{{ if .Draft }} ::Draft{{ end }}
-	</h1>
-
-	{{ .Content }}
-
-		{{/* 
-			{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content }}
-			{{ $image := (index $images 0) }}
-			{{ with $image }}
-			<figure class="Thumbnail">
-				{{ $image | safeHTML }} 
-			</figure>
-			{{ end }}
-				{{ .Summary | .RenderString }}
-			{{ if .Truncated } <a href="{{ .RelPermalink }}">Read more…</a> {{ end }}
-		*/}}
+	</h2>
+	{{ if .Params.categories }}
+	<p class="PostCategories">
+		{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
+	</p>
+	{{ end }}
+	<div class="PostSummaryWrap">
+		{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content 1 }}
+		{{ with $images }}
+		{{ with index . 0 }}
+		<figure class="PostThumb">
+			{{ . | safeHTML }}
+		</figure>
+		{{ end }}
+		{{ end }}
+		<div class="PostSummary">{{ .Summary }}</div>
+	</div>
 </article>
 {{ end }}
+</main>
 
 {{ partial "footer" . }}

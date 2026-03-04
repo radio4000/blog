@@ -1,0 +1,13 @@
+{{- $taxonomy := .taxonomy -}}
+{{- $prefix := .prefix | default "" -}}
+{{- with .page.GetTerms $taxonomy }}
+<span class="TermList">
+{{- range . }}
+{{- $label := printf "%s%s" $prefix .LinkTitle -}}
+{{- if eq $taxonomy "tags" -}}
+{{- $label = printf "#%s" (.LinkTitle | urlize) -}}
+{{- end -}}
+<a class="Term Term-{{ $taxonomy }}" href="{{ .RelPermalink }}">{{ $label }}</a>
+{{- end }}
+</span>
+{{- end }}

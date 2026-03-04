@@ -1,0 +1,10 @@
+{{- $pages := .pages -}}
+{{- if and $pages (gt (len $pages) 0) -}}
+{{- $latest := index ($pages.ByDate.Reverse) 0 -}}
+{{- $days := div (sub now.Unix $latest.Date.Unix) 86400 -}}
+<p class="LastUpdated">
+	Last updated:
+	<time datetime="{{ $latest.Date }}">{{ $latest.Date.Format "2 January 2006" }}</time>
+	({{ if le $days 0 }}today{{ else if eq $days 1 }}1 day ago{{ else }}{{ $days }} days ago{{ end }})
+</p>
+{{- end -}}

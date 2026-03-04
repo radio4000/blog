@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<main>
+	<header class="TaxonomyHeader">
+		<p class="Meta">Browse all {{ lower .Title }}</p>
+		<h1 class="Title">{{ .Title }}</h1>
+		{{ partial "last-updated.html" (dict "pages" .Site.RegularPages) }}
+	</header>
+
+	<ul class="TaxonomyRowList TaxonomyRowList-{{ .Data.Plural }}">
+		{{ range .Data.Terms.ByCount }}
+		{{ $latest := index (.Page.Pages.ByDate.Reverse) 0 }}
+		<li>
+			<a class="TaxonomyRowLink" href="{{ .Page.RelPermalink }}">
+				{{ if eq $.Data.Plural "categories" }}
+				<span class="TaxonomyRowTitle">{{ .Page.LinkTitle }}</span>
+				<span class="TaxonomyRowDate">last updated {{ $latest.Date.Format "2 Jan 2006" }}</span>
+				<span class="TaxonomyRowCount">{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}</span>
+				{{ else }}
+				<span class="TaxonomyRowTitle">#{{ .Page.LinkTitle | urlize }}</span>
+				<span class="TaxonomyRowMeta">{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}</span>
+				{{ end }}
+			</a>
+		</li>
+		{{ end }}
+	</ul>
+</main>
+
+{{ partial "footer.html" . }}

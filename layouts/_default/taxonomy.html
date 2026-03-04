@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<main class="PostList">
+	<header class="TaxonomyHeader">
+		<p class="Meta">{{ title .Data.Singular }}</p>
+		<h1 class="Title">{{ .Title }}</h1>
+		<p class="Meta">{{ len .Pages }} posts</p>
+		{{ partial "last-updated.html" (dict "pages" .Pages) }}
+	</header>
+
+	{{ range .Paginator.Pages }}
+	<article class="PostCard">
+		<h2 class="Title">
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+		</h2>
+		{{ if and .Params.categories (ne $.Data.Singular "category") }}
+		<p class="PostCategories">
+			{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
+		</p>
+		{{ end }}
+		<div class="PostSummary">{{ .Summary }}</div>
+	</article>
+	{{ end }}
+</main>
+
+{{ partial "footer.html" . }}

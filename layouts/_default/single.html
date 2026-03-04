@@ -5,11 +5,27 @@
 		<p class="Meta">
 			<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
 		</p>
+		{{ if .Params.categories }}
+		<p class="PostCategories">
+			{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
+		</p>
+		{{ end }}
 		<h1 class="Title">{{ .Title }}</h1>
 		<section>{{ .Content }}</section>
-		{{ if .Params.tags }}
-		<footer class="Tags">
-			{{ partial "tags" .Params.tags }}
+		{{ if or .Params.categories .Params.tags }}
+		<footer class="PostTerms">
+			{{ if .Params.categories }}
+			<p class="TermGroup">
+				<span class="TermLabel">Categories</span>
+				{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
+			</p>
+			{{ end }}
+			{{ if .Params.tags }}
+			<p class="TermGroup">
+				<span class="TermLabel">Tags</span>
+				{{ partial "terms.html" (dict "page" . "taxonomy" "tags" "prefix" "#") }}
+			</p>
+			{{ end }}
 		</footer>
 		{{ end }}
 	</article>
