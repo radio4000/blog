@@ -1,5 +1,5 @@
 ---
-title: "Smarter Settings"
+title: Smarter settings
 date: 2018-06-11T13:51:20+02:00
 categories:
 - Features & How-To
