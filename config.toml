@@ -3,7 +3,8 @@ baseURL = "/"
 relativeURLs = true
 languageCode = "en-us"
 title = "Radio4000 Blog"
-paginate = 999
+[pagination]
+  pagerSize = 999
 [mediaTypes]
   [mediaTypes."application/rss+xml"]
     suffixes = ["xml"]

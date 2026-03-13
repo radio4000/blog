@@ -3,7 +3,7 @@ This is the blog on [https://blog.radio4000.com](https://blog.radio4000.com).
 Each `posts` are stored in `./content/posts`.
 
 Create a new post directly from GitHub:
-https://github.com/internet4000/radio4000-blog/new/master/content/posts.
+https://github.com/internet4000/radio4000-blog/new/main/content/posts.
 
 ## API
 
