@@ -4,7 +4,6 @@
 	<header class="TaxonomyHeader">
 		<p class="Meta">Browse all {{ lower .Title }}</p>
 		<h1 class="Title">{{ .Title }}</h1>
-		{{ partial "last-updated.html" (dict "pages" .Site.RegularPages) }}
 	</header>
 
 	<ul class="TaxonomyRowList TaxonomyRowList-{{ .Data.Plural }}">

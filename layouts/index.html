@@ -1,7 +1,6 @@
 {{ partial "header" . }}
 
 <main class="PostList">
-{{ partial "last-updated.html" (dict "pages" .Site.RegularPages) }}
 {{ range .Paginator.Pages }}
 <article class="PostCard">
 	<p class="Meta">
