@@ -148,14 +148,14 @@ make it "pretty"
 
 	.PostCard {
 		&::before {
-			transform: translateX(-50%);
+			transform: translateX(-70%);
 			content: "";
 			border-top: 2px solid var(--gray-4);
 			background: var(--gray-8);
 			border-bottom: 2px solid var(--gray-10);
 			height: 2px;
 			display: block;
-			width: 100%;
+			width: 200%;
 			margin-bottom: 2rem;
 		}
 	}

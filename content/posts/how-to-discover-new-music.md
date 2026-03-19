@@ -11,6 +11,8 @@ categories:
 
 An extensive guide on how to discover new music. TBC.
 
+<!--more-->
+
 ## How does new music appear?
 As silly as it sounds, some people create music and then decide to share
 it to the public.

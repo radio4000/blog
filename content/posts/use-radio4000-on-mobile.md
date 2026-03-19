@@ -20,6 +20,8 @@ device's screen.
 
 This is now solved!
 
+<!--more-->
+
 ## How to play Radio4000 with the mobile phone screen locked
 
 The solution is pretty simple, but will work only for **Android and on

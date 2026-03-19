@@ -31,11 +31,15 @@
 	<header class="SiteHeader">
 		{{ if .IsHome }}
 		<h1 class="Logo">
-			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+			<a href="{{ .Site.BaseURL }}">
+				<img src="{{ .Site.BaseURL }}icon-r4000.svg" alt="{{ .Site.Title }}" width="150" height="65">
+			</a>
 		</h1>
 		{{ else }}
 		<p class="Logo">
-			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+			<a href="{{ .Site.BaseURL }}">
+				<img src="{{ .Site.BaseURL }}icon-r4000.svg" alt="{{ .Site.Title }}" width="150" height="65">
+			</a>
 		</p>
 		{{ end }}
 		<p class="Tagline">Updates and notes from the Radio4000 project.</p>
