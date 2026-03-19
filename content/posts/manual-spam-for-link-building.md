@@ -1,5 +1,5 @@
 ---
-title: "Manual Spam Tutorial for Link Building on radio4000.com (and 500+ Other Services)"
+title: "Manual spam tutorial for link building on radio4000.com (and 500+ Other Services)"
 date: 2024-11-07
 categories:
 - Platform & Operations
@@ -13,8 +13,6 @@ come across radio profiles for services like botox clinics, spa
 massages, and other local businesses, which lack track lists and
 contain only links to their websites and exhaustive descriptions of
 their services.
-
-## Our spam problem
 
 We wish these were real users sharing their favorite tracks and media
 selections. Unfortunately, they remain empty profiles, cluttering the

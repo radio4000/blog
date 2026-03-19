@@ -1,17 +1,15 @@
 {{ partial "header.html" . }}
 
 <main>
-	<article>
+	<article class="PostCard">
+		<h1 class="Title">{{ .Title }}</h1>
+
 		<p class="Meta">
 			<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
 		</p>
-		{{ if .Params.categories }}
-		<p class="PostCategories">
-			{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
-		</p>
-		{{ end }}
-		<h1 class="Title">{{ .Title }}</h1>
+
 		<section>{{ .Content }}</section>
+
 		{{ if or .Params.categories .Params.tags }}
 		<footer class="PostTerms">
 			{{ if .Params.categories }}

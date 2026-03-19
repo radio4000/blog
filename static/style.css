@@ -1,308 +1,369 @@
 :root {
 	--theme: #5e1ae6;
+	--color-text: black;
+	/* --gray-1: hsl(0, 0%, 90%); */
+	/* --gray-2: hsl(0, 0%, 75%); */
+	/* --gray-3: hsl(0, 0%, 60%); */
+	/* --gray-4: hsl(0, 0%, 50%); */
+	/* --gray-5: hsl(0, 0%, 42%); */
+	/* --gray-6: hsl(0, 0%, 35%); */
+	/* --gray-7: hsl(0, 0%, 30%); */
+	--font-1: 0.6875rem;
+	--font-2: 0.75rem;
+	--font-3: 0.8125rem;
+	--font-4: 0.9375rem;
+	--font-5: 1rem;
+	--font-6: 1.125rem;
+	--font-7: 1.25rem;
+	--font-8: 1.5rem;
+	--font-9: 2.25rem;
+
+	--gray-light: oklch(0.67 0.01 0);
+	--gray-dark: oklch(0.67 0.005 0);
+
+	--gray-1: light-dark(oklch(from var(--gray-light) 0.99 calc(c * 0.5) h), oklch(from var(--gray-dark) 0.19 calc(c * 1.6) h));
+	--gray-2: light-dark(oklch(from var(--gray-light) 0.97 calc(c * 0.6) h), oklch(from var(--gray-dark) 0.25 calc(c * 1.5) h));
+	--gray-3: light-dark(oklch(from var(--gray-light) 0.96 calc(c * 0.7) h), oklch(from var(--gray-dark) 0.27 calc(c * 1.4) h));
+	--gray-4: light-dark(oklch(from var(--gray-light) 0.94 calc(c * 0.8) h), oklch(from var(--gray-dark) 0.3 calc(c * 1.3) h));
+	--gray-5: light-dark(oklch(from var(--gray-light) 0.93 calc(c * 0.9) h), oklch(from var(--gray-dark) 0.32 calc(c * 1.2) h));
+	--gray-6: light-dark(oklch(from var(--gray-light) 0.91 c h), oklch(from var(--gray-dark) 0.36 calc(c * 1.1) h));
+	--gray-7: light-dark(oklch(from var(--gray-light) 0.89 calc(c * 1.1) h), oklch(from var(--gray-dark) 0.43 c h));
+	--gray-8: light-dark(oklch(from var(--gray-light) 0.82 calc(c * 1.2) h), oklch(from var(--gray-dark) 0.54 calc(c * 1) h));
+	--gray-9: light-dark(oklch(from var(--gray-light) 0.65 calc(c * 1.3) h), oklch(from var(--gray-dark) 0.6 calc(c * 0.9) h));
+	--gray-10: light-dark(oklch(from var(--gray-light) 0.61 calc(c * 1.4) h), oklch(from var(--gray-dark) 0.7 calc(c * 0.8) h));
+	--gray-11: light-dark(oklch(from var(--gray-light) 0.54 calc(c * 1.5) h), oklch(from var(--gray-dark) 0.94 calc(c * 0.6) h));
+	--gray-12: light-dark(oklch(from var(--gray-light) 0.2 calc(c * 1.6) h), oklch(from var(--gray-dark) 0.95 calc(c * 0.5) h));
 }
 
 /*
-	make it "pretty"
-*/
+make it "pretty"
+ */
 
-html {
-	font-family: system-ui, sans-serif;
-	line-height: 1.5;
-	max-width: 50em;
-	margin: 0 auto;
-	scrollbar-gutter: stable;
-}
+	html {
+		font-family: Radio canada, system-ui, sans-serif;
+		line-height: 1.5;
+		max-width: 50em;
+		margin: 0 auto;
+		scrollbar-gutter: stable;
 
-body {
-	margin: 2vw 3vw;
-}
-
-article {
-	margin-bottom: 3rem;
-}
-
-h1, h2, h3 {
-	line-height: 1.3;
-}
-
-h1 {
-	font-size: 2rem;
-}
-
-a {
-	text-decoration-color: transparent;
-	text-decoration-thickness: 0.08em;
-	text-underline-offset: 0.14em;
-	transition: text-decoration-color 180ms ease, text-shadow 220ms ease;
-}
-
-a:hover,
-a:focus-visible {
-	text-decoration-color: currentColor;
-	/* lightweight faux-weight animation that does not reflow text */
-	text-shadow: 0 0 0.01em currentColor;
-}
-
-h1 a,
-h2 a {
-	color: initial;
-	text-decoration: none;
-}
-
-img {
-	max-width: 100%;
-}
-
-.Title {
-	margin-top: 0;
-	margin-bottom : 0;
-}
-
-.Meta {
-	font-size: 0.875em;
-	color: hsl(0, 0%, 50%);
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
-.PostCategories {
-	margin: 0.15rem 0 0.45rem;
-}
-
-.LastUpdated {
-	margin: 0.3rem 0 0;
-	font-size: 0.86rem;
-	color: hsl(0, 0%, 42%);
-}
-
-.PostList {
-	display: grid;
-	gap: 2.25rem;
-}
-
-.PostCard {
-	margin: 0;
-	padding: 0;
-}
-
-.PostCard .Title {
-	font-size: 1.5rem;
-}
-
-.PostCard .Meta {
-	margin-bottom: 0.1rem;
-}
-
-.PostSummaryWrap {
-	overflow: auto;
-}
-
-.PostThumb {
-	float: right;
-	width: 36%;
-	max-width: 12rem;
-	margin: 0.1rem 0 0.6rem 0.9rem;
-}
-
-.PostThumb img {
-	display: block;
-	width: 100%;
-	height: auto;
-}
-
-.PostSummary {
-	max-width: 70ch;
-}
-
-.Logo {
-	margin: 0;
-	font-size: 1.5rem;
-	line-height: 1;
-	font-weight: 600;
-}
-
-.Logo a {
-	color: black;
-	text-decoration: none;
-	letter-spacing: -0.01em;
-}
-
-.SiteHeader {
-	margin-bottom: 2.75rem;
-	padding: 0;
-}
-
-.Tagline {
-	margin: 0.5rem 0 0;
-	color: hsl(0, 0%, 35%);
-	font-size: 0.95rem;
-}
-
-.HeaderNav {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 0.9rem;
-	margin-top: 0.9rem;
-}
-
-.HeaderNav a {
-	color: black;
-	text-decoration: underline;
-	padding: 0;
-	font-size: 0.92rem;
-}
-
-.HeaderNav a.is-active,
-.HeaderNav a[aria-current="page"] {
-	font-weight: 600;
-	text-decoration-color: currentColor;
-}
-
-@media (max-width: 620px) {
-	.Logo {
-		font-size: 1.35rem;
+		background: var(--gray-1);
+		color: var(--gray-12);
 	}
-}
 
-article {
-	overflow: auto;
-}
+	body {
+		font-size: 17px;
+		margin: 2vw 3vw;
+	}
 
-.PostTerms {
-	margin-top: 1.5rem;
-	padding-top: 0.25rem;
-}
+	article {
+		margin-bottom: 3rem;
+	}
 
-.TermGroup {
-	margin: 0 0 0.6rem;
-}
+	h1, h2, h3 {
+		line-height: 1.3;
+		text-wrap: balance;
 
-.TermLabel {
-	display: inline-block;
-	margin-right: 0.5rem;
-	font-size: 0.8rem;
-	font-weight: 600;
-	letter-spacing: 0.02em;
-	color: hsl(0, 0%, 35%);
-	text-transform: uppercase;
-}
 
-.TermList {
-	display: inline-flex;
-	flex-wrap: wrap;
-	gap: 0.28rem;
-	vertical-align: middle;
-}
+	}
 
-.Term {
-	display: inline-block;
-	padding: 0;
-	text-decoration: underline;
-	font-size: 0.72rem;
-	line-height: 1.35;
-}
+	h1 {
+		font-size: var(--font-9);
+	}
 
-.Term-categories {
-	color: black;
-}
+	.PostCard .Title {
+		font-size: var(--font-9);
+		max-width: 44ch;
+	}
 
-.Term-tags {
-	color: hsl(0, 0%, 30%);
-}
+	h2 {
+		font-size: var(--font-7);
+	}
 
-.TaxonomyHeader {
-	margin-bottom: 0.85rem;
-}
+	h3 {
+		font-size: var(--font-5);
+	}
 
-.TaxonomyRowList {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	display: grid;
-	gap: 0.4rem;
-}
+	a {
+		color: var(--theme);
+		text-decoration-color: transparent;
+		text-decoration-thickness: 0.08em;
+		text-underline-offset: 0.14em;
+		transition: text-decoration-color 180ms ease, text-shadow 220ms ease;
+	}
 
-.TaxonomyRowLink {
-	display: flex;
-	align-items: baseline;
-	justify-content: space-between;
-	gap: 1rem;
-	padding: 0.38rem 0.55rem;
-	text-decoration: none;
-	border: 1px solid hsl(0, 0%, 90%);
-	border-radius: 0.4rem;
-	color: black;
-}
+	a:hover,
+	a:focus-visible {
+		text-decoration-color: currentColor;
+		/* lightweight faux-weight animation that does not reflow text */
+		text-shadow: 0 0 0.01em currentColor;
+	}
 
-.TaxonomyRowTitle {
-	font-size: 0.98rem;
-	min-width: 0;
-}
+	h1 a,
+	h2 a {
+		color: initial;
+		text-decoration: none;
+	}
 
-.TaxonomyRowMeta {
-	font-size: 0.82rem;
-	color: hsl(0, 0%, 42%);
-	white-space: nowrap;
-}
+	img {
+		max-width: 100%;
+	}
 
-.TaxonomyRowDate,
-.TaxonomyRowCount {
-	font-size: 0.82rem;
-	color: hsl(0, 0%, 42%);
-	white-space: nowrap;
-}
+	.Title {
+		margin-top: 0;
+		margin-bottom : 0;
+	}
 
-.TaxonomyRowList-tags .TaxonomyRowLink {
-	padding: 0.16rem 0;
-	border: 0;
-	border-radius: 0;
-	text-decoration: underline;
-}
+	.Meta {
+		display: flex;
+		flex-flow: column;
+		font-size: var(--font-4);
+		color: var(--gray-10);
+		margin-top: 0;
+		margin-bottom: 0;
+		.Term-categories {
+			color: var(--gray-10);
+		}
 
-.TaxonomyRowList-categories .TaxonomyRowLink {
-	display: grid;
-	grid-template-columns: minmax(0, 1fr) auto auto;
-	align-items: baseline;
-	gap: 0.8rem;
-	padding: 0.16rem 0;
-	border: 0;
-	border-radius: 0;
-	text-decoration: underline;
-}
+	}
 
-.TaxonomyRowList-categories .TaxonomyRowTitle {
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
+	.PostCategories {
+		margin: 0.15rem 0 0.45rem;
+	}
 
-.TaxonomyRowList-tags .TaxonomyRowTitle,
-.TaxonomyRowList-tags .TaxonomyRowMeta {
-	font-size: 0.92rem;
-}
+	.LastUpdated {
+		margin: 0.3rem 0 0;
+		font-size: var(--font-3);
+		color: var(--gray-10);
+	}
 
-.TaxonomyRowList-categories .TaxonomyRowTitle,
-.TaxonomyRowList-categories .TaxonomyRowMeta {
-	font-size: 0.92rem;
-}
+	.PostList {
+		display: grid;
+		gap: 3rem;
+	}
 
-.Thumbnail {
-	float: right;
-	max-width: 40%;
-	margin-right: 0;
-	margin-bottom: 1em;
-	border: 1px solid rgba(0,0,0,0.4);
-	box-shadow: 3px 2px 3px rgba(0,0,0,0.3);
-}
+	.PostCard {
+		margin: 0;
+		padding: 0;
+	}
 
-.Thumbnail img {
-	vertical-align: middle;
-}
+	.PostCard {
+		&::before {
+			transform: translateX(-50%);
+			content: "";
+			border-top: 2px solid var(--gray-4);
+			background: var(--gray-8);
+			border-bottom: 2px solid var(--gray-10);
+			height: 2px;
+			display: block;
+			width: 100%;
+			margin-bottom: 2rem;
+		}
+	}
 
-@media (max-width: 620px) {
+	.PostSummaryWrap {
+		overflow: auto;
+	}
+
 	.PostThumb {
-		width: 40%;
-		margin-left: 0.7rem;
+		float: right;
+		width: 36%;
+		max-width: 12rem;
+		margin: 0.1rem 0 0.5rem 1rem;
 	}
-}
+
+	.PostThumb img {
+		display: block;
+		width: 100%;
+		height: auto;
+	}
+
+	.PostSummary {
+		max-width: 70ch;
+	}
+
+	.Logo {
+		margin: 0;
+		font-size: var(--font-8);
+		line-height: 1;
+		font-weight: 600;
+	}
+
+	.Logo a {
+		color: var(--color-text);
+		text-decoration: none;
+		letter-spacing: -0.01em;
+	}
+
+	.SiteHeader {
+		margin-bottom: 2.75rem;
+		padding: 0;
+	}
+
+	.Tagline {
+		margin: 0.5rem 0 0;
+	}
+
+	.HeaderNav {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.9rem;
+		margin-top: 2rem;
+	}
+
+	.HeaderNav a {
+		color: var(--color-text);
+		text-decoration: underline;
+		padding: 0;
+		font-size: var(--font-4);
+	}
+
+	.HeaderNav a.is-active,
+	.HeaderNav a[aria-current="page"] {
+		font-weight: 600;
+		text-decoration-color: currentColor;
+	}
+
+	@media (max-width: 620px) {
+		.Logo {
+			font-size: var(--font-7);
+		}
+	}
+
+	.PostTerms {
+		margin-top: 1.5rem;
+		padding-top: 0.25rem;
+	}
+
+	.TermGroup {
+		margin: 0 0 0.6rem;
+	}
+
+	.TermLabel {
+		display: inline-block;
+		margin-right: 0.5rem;
+		font-weight: 600;
+		letter-spacing: 0.02em;
+		font-size: var(--font-3);
+		text-transform: uppercase;
+	}
+
+	.TermList {
+		display: inline-flex;
+		flex-wrap: wrap;
+		gap: 0.3rem;
+	}
+
+	.Term {
+		display: inline-block;
+		padding: 0;
+		text-decoration: underline;
+	}
+
+	.Term-categories {
+		color: var(--color-text);
+	}
+
+	.Term-tags {
+		color: var(--gray-10);
+	}
+
+	.TaxonomyRowList {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: grid;
+		gap: 0.4rem;
+	}
+
+	.TaxonomyRowLink {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 1rem;
+		padding: 0.38rem 0.55rem;
+		text-decoration: none;
+		border: 1px solid var(--gray-1);
+		border-radius: 0.4rem;
+		color: var(--color-text);
+	}
+
+	.TaxonomyRowTitle {
+		font-size: var(--font-5);
+		min-width: 0;
+	}
+
+	.TaxonomyRowMeta {
+		font-size: var(--font-3);
+		color: var(--gray-10);
+		white-space: nowrap;
+	}
+
+	.TaxonomyRowDate,
+	.TaxonomyRowCount {
+		font-size: var(--font-3);
+		color: var(--gray-10);
+		white-space: nowrap;
+	}
+
+	.TaxonomyRowList-tags .TaxonomyRowLink {
+		padding: 0.16rem 0;
+		border: 0;
+		border-radius: 0;
+		text-decoration: underline;
+	}
+
+	.TaxonomyRowList-categories .TaxonomyRowLink {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) auto auto;
+		align-items: baseline;
+		gap: 0.8rem;
+		padding: 0.16rem 0;
+		border: 0;
+		border-radius: 0;
+		text-decoration: underline;
+	}
+
+	.TaxonomyRowList-categories .TaxonomyRowTitle {
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.TaxonomyRowList-tags .TaxonomyRowTitle,
+	.TaxonomyRowList-tags .TaxonomyRowMeta {
+		font-size: var(--font-4);
+	}
+
+	.TaxonomyRowList-categories .TaxonomyRowTitle,
+	.TaxonomyRowList-categories .TaxonomyRowMeta {
+		font-size: var(--font-4);
+	}
+
+	.Thumbnail {
+		float: right;
+		max-width: 40%;
+		margin-right: 0;
+		margin-bottom: 1em;
+		border: 1px solid rgba(0,0,0,0.4);
+		box-shadow: 3px 2px 3px rgba(0,0,0,0.3);
+	}
+
+	.Thumbnail img {
+		vertical-align: middle;
+	}
+
+	@media (max-width: 620px) {
+		.PostThumb {
+			width: 40%;
+			margin-left: 0.7rem;
+		}
+	}
+
+	blockquote {
+		font-style: italic;
+	}
+
+	a.ReadMore {
+		padding-left: 2ch;
+		color: var(--gray-10);
+	}

@@ -74,7 +74,7 @@ organize it in shelves or in folders, create playlists offline or
 online, but store what you find and start building a well organized collection of
 good tunes, that you can learn to understand.
 
-# Some sources to stumble upon new discoveies
+## Some sources to stumble upon new discoveies
 
 All the following sources can be combined. Mixing them will lead to great results.
 
@@ -216,7 +216,7 @@ some people wanted to share good music and good acts they discovered. There is h
 those person are also willing to create for you a unique moment in
 time and space you won't forget.
 
-# Conclusion
+## Conclusion
 This is forever work in progress. It is solely an introduction to what
 is a possible way to dig new music, suggesting ways some might not yet know.
 

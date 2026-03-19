@@ -3,20 +3,20 @@
 <main class="PostList">
 {{ range .Paginator.Pages }}
 <article class="PostCard">
-	<p class="Meta">
-		<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
-	</p>
 	<h2 class="Title">
 		<a href="{{ .Permalink }}">
 			{{ .Title }}
 		</a>
 		{{ if .Draft }} ::Draft{{ end }}
 	</h2>
+	<p class="Meta">
+		<time datetime="{{ .Date }}">{{ .Date.Format " 2. January 2006" }}</time>
 	{{ if .Params.categories }}
-	<p class="PostCategories">
-		{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}
-	</p>
+	<span>{{ partial "terms.html" (dict "page" . "taxonomy" "categories") }}</span>
 	{{ end }}
+	</p>
+
+
 	<div class="PostSummaryWrap">
 		{{ $images := findRE `<img\s+[^>]*src="([^"]*)"[^>]*>` .Content 1 }}
 		{{ with $images }}
@@ -26,7 +26,8 @@
 		</figure>
 		{{ end }}
 		{{ end }}
-		<div class="PostSummary">{{ .Summary }}</div>
+		<div class="PostSummary">{{ replaceRE "<img[^>]*>" "" .Summary | safeHTML }}</div>
+		{{ if .Truncated }}<a class="ReadMore" href="{{ .Permalink }}">Read more →</a>{{ end }}
 	</div>
 </article>
 {{ end }}
